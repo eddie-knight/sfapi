@@ -1,0 +1,187 @@
+{
+    "equipment":
+    [
+        {
+          "name": "Consumer",
+          "type": "Backpack",
+          "price": 3,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Industrial",
+          "type": "Backpack",
+          "price": 25,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Environmental",
+          "type": "Clothing",
+          "price": 10,
+          "bulk": "L",
+          "level": 1
+        },
+        {
+          "name": "Everyday",
+          "type": "Clothing",
+          "price": 1,
+          "bulk": "L",
+          "level": 1
+        },
+        {
+          "name": "Formal",
+          "type": "Clothing",
+          "price": 5,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Professional",
+          "type": "Clothing",
+          "price": 5,
+          "bulk": "L",
+          "level": 1
+        },
+        {
+          "name": "Travel",
+          "type": "Clothing",
+          "price": 10,
+          "bulk": "L",
+          "level": 1
+        },
+        {
+          "name": "Mass produced",
+          "type": "Tent",
+          "price": 2,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Mobile hotelier",
+          "type": "Tent",
+          "price": 50,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Bonding epoxy",
+          "type": "Other",
+          "price": 400,
+          "bulk": "L",
+          "level": 1
+        },
+        {
+          "name": "Gear clamp",
+          "type": "Other",
+          "price": 100,
+          "bulk": "L",
+          "level": 1
+        },
+        {
+          "name": "Hygiene kit",
+          "type": "Other",
+          "price": 3,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Space suit",
+          "type": "Other",
+          "price": 25,
+          "bulk": 1,
+          "level": 1
+        },
+        {
+          "name": "Fine art",
+          "type": "Trade Goods",
+          "price": "Varies",
+          "bulk": "Varies",
+          "level": ""
+        },
+        {
+          "name": "Gem",
+          "type": "Trade Goods",
+          "price": "Varies",
+          "bulk": "—",
+          "level": ""
+        },
+        {
+          "name": "Grain",
+          "type": "Trade Goods",
+          "price": 1,
+          "bulk": 1,
+          "level": ""
+        },
+        {
+          "name": "Textiles, common",
+          "type": "Trade Goods",
+          "price": 1,
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "Textiles, fine",
+          "type": "Trade Goods",
+          "price": 100,
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "UPB (1000)",
+          "type": "Trade Goods",
+          "price": 1000,
+          "bulk": 1,
+          "level": ""
+        },
+        {
+          "name": "Minor",
+          "type": "Intoxicant",
+          "price": 1,
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "Superior",
+          "type": "Intoxicant",
+          "price": "10+",
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "Poor",
+          "type": "Meal",
+          "price": 1,
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "Common",
+          "type": "Meal",
+          "price": 3,
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "Good",
+          "type": "Meal",
+          "price": 5,
+          "bulk": "L",
+          "level": ""
+        },
+        {
+          "name": "Field ration",
+          "type": "Meal",
+          "price": 1,
+          "bulk": 1,
+          "level": ""
+        },
+        {
+          "name": "R2E",
+          "type": "Meal",
+          "price": 1,
+          "bulk": "L",
+          "level": ""
+        }
+    ]
+}

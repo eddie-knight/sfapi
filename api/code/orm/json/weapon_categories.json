@@ -1,0 +1,244 @@
+{
+  "weapon_categories": [
+    {
+      "id": 1,
+      "type": "basic melee",
+      "hands": 1,
+      "category": "uncategorized"
+    },
+    {
+      "id": 2,
+      "type": "basic melee",
+      "hands": 2,
+      "category": "uncategorized"
+    },
+    {
+      "id": 3,
+      "type": "advanced melee",
+      "hands": 1,
+      "category": "flame"
+    },
+    {
+      "id": 4,
+      "type": "advanced melee",
+      "hands": 1,
+      "category": "plasma"
+    },
+    {
+      "id": 5,
+      "type": "advanced melee",
+      "hands": 1,
+      "category": "shock"
+    },
+    {
+      "id": 6,
+      "type": "advanced melee",
+      "hands": 1,
+      "category": "sonic"
+    },
+    {
+      "id": 7,
+      "type": "advanced melee",
+      "hands": 1,
+      "category": "uncategorized"
+    },
+    {
+      "id": 8,
+      "type": "advanced melee",
+      "hands": 2,
+      "category": "cryo"
+    },
+    {
+      "id": 9,
+      "type": "advanced melee",
+      "hands": 2,
+      "category": "flame"
+    },
+    {
+      "id": 10,
+      "type": "advanced melee",
+      "hands": 2,
+      "category": "plasma"
+    },
+    {
+      "id": 11,
+      "type": "advanced melee",
+      "hands": 2,
+      "category": "uncategorized"
+    },
+    {
+      "id": 12,
+      "type": "small arm",
+      "hands": 1,
+      "category": "cryo"
+    },
+    {
+      "id": 13,
+      "type": "small arm",
+      "hands": 1,
+      "category": "flame"
+    },
+    {
+      "id": 14,
+      "type": "small arm",
+      "hands": 1,
+      "category": "laser"
+    },
+    {
+      "id": 15,
+      "type": "small arm",
+      "hands": 1,
+      "category": "plasma"
+    },
+    {
+      "id": 16,
+      "type": "small arm",
+      "hands": 1,
+      "category": "projectile"
+    },
+    {
+      "id": 17,
+      "type": "small arm",
+      "hands": 1,
+      "category": "shock"
+    },
+    {
+      "id": 18,
+      "type": "small arm",
+      "hands": 1,
+      "category": "sonic"
+    },
+    {
+      "id": 19,
+      "type": "small arm",
+      "hands": 1,
+      "category": "uncategorized"
+    },
+    {
+      "id": 20,
+      "type": "longarm",
+      "hands": 2,
+      "category": "cryo"
+    },
+    {
+      "id": 21,
+      "type": "longarm",
+      "hands": 2,
+      "category": "flame"
+    },
+    {
+      "id": 22,
+      "type": "longarm",
+      "hands": 2,
+      "category": "laser"
+    },
+    {
+      "id": 23,
+      "type": "longarm",
+      "hands": 2,
+      "category": "plasma"
+    },
+    {
+      "id": 24,
+      "type": "longarm",
+      "hands": 2,
+      "category": "projectile"
+    },
+    {
+      "id": 25,
+      "type": "longarm",
+      "hands": 2,
+      "category": "shock"
+    },
+    {
+      "id": 26,
+      "type": "longarm",
+      "hands": 2,
+      "category": "sonic"
+    },
+    {
+      "id": 27,
+      "type": "longarm",
+      "hands": 2,
+      "category": "uncategorized"
+    },
+    {
+      "id": 28,
+      "type": "heavy",
+      "hands": 2,
+      "category": "cryo"
+    },
+    {
+      "id": 29,
+      "type": "heavy",
+      "hands": 2,
+      "category": "flame"
+    },
+    {
+      "id": 30,
+      "type": "heavy",
+      "hands": 2,
+      "category": "laser"
+    },
+    {
+      "id": 31,
+      "type": "heavy",
+      "hands": 2,
+      "category": "plasma"
+    },
+    {
+      "id": 32,
+      "type": "heavy",
+      "hands": 2,
+      "category": "projectile"
+    },
+    {
+      "id": 33,
+      "type": "heavy",
+      "hands": 2,
+      "category": "shock"
+    },
+    {
+      "id": 34,
+      "type": "heavy",
+      "hands": 2,
+      "category": "sonic"
+    },
+    {
+      "id": 35,
+      "type": "heavy",
+      "hands": 2,
+      "category": "uncategorized"
+    },
+    {
+      "id": 36,
+      "type": "sniper",
+      "hands": 2,
+      "category": "projectile"
+    },
+    {
+      "id": 37,
+      "type": "grenades",
+      "hands": 2,
+      "category": "uncategorized"
+    },
+    {
+      "id": 38,
+      "type": "thrown",
+      "hands": 1,
+      "category": "uncategorized"
+    },
+    {
+      "id": 39,
+      "type": "thrown",
+      "hands": 2,
+      "category": "uncategorized"
+    },
+    {
+      "id": 40,
+      "type": "analog projectile",
+      "hands": 2,
+      "category": "uncategorized"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "personal_upgrades":
+    [
+        {
+          "name": "Ability Crystal",
+          "level": 3,
+          "price": 1400,
+          "boost": 2
+        },
+        {
+          "name": "Ability Crystal",
+          "level": 7,
+          "price": 6500,
+          "boost": 4
+        },
+        {
+          "name": "Ability Crystal",
+          "level": 14,
+          "price": 7500,
+          "boost": 6
+        },
+        {
+          "name": "Synaptic Accelerators",
+          "level": 3,
+          "price": 1400,
+          "boost": 2
+        },
+        {
+          "name": "Synaptic Accelerators",
+          "level": 7,
+          "price": 6500,
+          "boost": 4
+        },
+        {
+          "name": "Synaptic Accelerators",
+          "level": 14,
+          "price": 7500,
+          "boost": 6
+        },
+        {
+          "name": "Synergizing Symbiote",
+          "level": 3,
+          "price": 1400,
+          "boost": 2
+        },
+        {
+          "name": "Synergizing Symbiote",
+          "level": 7,
+          "price": 6500,
+          "boost": 4
+        },
+        {
+          "name": "Synergizing Symbiote",
+          "level": 14,
+          "price": 7500,
+          "boost": 6
+        }
+    ]
+}

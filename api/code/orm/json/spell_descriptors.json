@@ -1,0 +1,561 @@
+{
+    "spell_descriptors":
+    [
+        {
+          "spell_id": 219,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 219,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 218,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 215,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 214,
+          "descriptor_id": 13
+        },
+        {
+          "spell_id": 213,
+          "descriptor_id": 14
+        },
+        {
+          "spell_id": 208,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 207,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 207,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 202,
+          "descriptor_id": 12
+        },
+        {
+          "spell_id": 201,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 200,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 200,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 199,
+          "descriptor_id": 12
+        },
+        {
+          "spell_id": 195,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 195,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 194,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 194,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 193,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 192,
+          "descriptor_id": 15
+        },
+        {
+          "spell_id": 190,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 190,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 190,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 189,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 189,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 189,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 188,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 186,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 184,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 182,
+          "descriptor_id": 17
+        },
+        {
+          "spell_id": 178,
+          "descriptor_id": 18
+        },
+        {
+          "spell_id": 177,
+          "descriptor_id": 18
+        },
+        {
+          "spell_id": 171,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 170,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 165,
+          "descriptor_id": 13
+        },
+        {
+          "spell_id": 164,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 163,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 162,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 161,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 160,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 158,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 157,
+          "descriptor_id": 13
+        },
+        {
+          "spell_id": 153,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 150,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 146,
+          "descriptor_id": 12
+        },
+        {
+          "spell_id": 145,
+          "descriptor_id": 1
+        },
+        {
+          "spell_id": 144,
+          "descriptor_id": 1
+        },
+        {
+          "spell_id": 143,
+          "descriptor_id": 1
+        },
+        {
+          "spell_id": 140,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 139,
+          "descriptor_id": 14
+        },
+        {
+          "spell_id": 137,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 136,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 135,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 134,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 133,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 132,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 131,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 130,
+          "descriptor_id": 16
+        },
+        {
+          "spell_id": 129,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 129,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 125,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 124,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 123,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 122,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 121,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 120,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 119,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 118,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 117,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 114,
+          "descriptor_id": 13
+        },
+        {
+          "spell_id": 109,
+          "descriptor_id": 19
+        },
+        {
+          "spell_id": 108,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 108,
+          "descriptor_id": 20
+        },
+        {
+          "spell_id": 108,
+          "descriptor_id": 21
+        },
+        {
+          "spell_id": 108,
+          "descriptor_id": 22
+        },
+        {
+          "spell_id": 104,
+          "descriptor_id": 12
+        },
+        {
+          "spell_id": 101,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 101,
+          "descriptor_id": 7
+        },
+        {
+          "spell_id": 100,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 100,
+          "descriptor_id": 7
+        },
+        {
+          "spell_id": 97,
+          "descriptor_id": 13
+        },
+        {
+          "spell_id": 87,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 87,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 86,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 86,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 85,
+          "descriptor_id": 23
+        },
+        {
+          "spell_id": 80,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 81,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 79,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 77,
+          "descriptor_id": 13
+        },
+        {
+          "spell_id": 76,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 68,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 68,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 66,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 66,
+          "descriptor_id": 24
+        },
+        {
+          "spell_id": 66,
+          "descriptor_id": 25
+        },
+        {
+          "spell_id": 65,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 65,
+          "descriptor_id": 24
+        },
+        {
+          "spell_id": 65,
+          "descriptor_id": 25
+        },
+        {
+          "spell_id": 64,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 64,
+          "descriptor_id": 24
+        },
+        {
+          "spell_id": 64,
+          "descriptor_id": 25
+        },
+        {
+          "spell_id": 62,
+          "descriptor_id": 14
+        },
+        {
+          "spell_id": 56,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 55,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 55,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 43,
+          "descriptor_id": 12
+        },
+        {
+          "spell_id": 42,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 36,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 36,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 34,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 34,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 33,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 33,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 30,
+          "descriptor_id": 17
+        },
+        {
+          "spell_id": 29,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 28,
+          "descriptor_id": 4
+        },
+        {
+          "spell_id": 26,
+          "descriptor_id": 26
+        },
+        {
+          "spell_id": 21,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 21,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 20,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 20,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 17,
+          "descriptor_id": 9
+        },
+        {
+          "spell_id": 16,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 16,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 16,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 15,
+          "descriptor_id": 3
+        },
+        {
+          "spell_id": 15,
+          "descriptor_id": 5
+        },
+        {
+          "spell_id": 15,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 14,
+          "descriptor_id": 8
+        },
+        {
+          "spell_id": 13,
+          "descriptor_id": 2
+        },
+        {
+          "spell_id": 13,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 12,
+          "descriptor_id": 2
+        },
+        {
+          "spell_id": 12,
+          "descriptor_id": 6
+        },
+        {
+          "spell_id": 11,
+          "descriptor_id": 19
+        },
+        {
+          "spell_id": 10,
+          "descriptor_id": 26
+        },
+        {
+          "spell_id": 7,
+          "descriptor_id": 27
+        },
+        {
+          "spell_id": 4,
+          "descriptor_id": 19
+        },
+        {
+          "spell_id": 2,
+          "descriptor_id": 8
+        }
+    ]
+}

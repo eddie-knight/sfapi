@@ -1,0 +1,325 @@
+{
+    "tech_items":
+    [
+        {
+          "type": "Cable Lines",
+          "name": "Cable line, titanium alloy",
+          "level": 1,
+          "price": "5/10 ft.",
+          "hands": "",
+          "bulk": "L/10 ft.",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Cable Lines",
+          "name": "Cable line, adamantine alloy",
+          "level": 2,
+          "price": "500/10 ft.",
+          "hands": "",
+          "bulk": "L/20 ft.",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Comm Units",
+          "name": "Personal",
+          "level": 1,
+          "price": 7,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 80,
+          "item_usage": "1/hour"
+        },
+        {
+          "type": "Comm Units",
+          "name": "System-wide",
+          "level": 6,
+          "price": "4,000",
+          "hands": "",
+          "bulk": 20,
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Comm Units",
+          "name": "Unlimited",
+          "level": 12,
+          "price": "32,000",
+          "hands": "",
+          "bulk": 40,
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Locks",
+          "name": "Simple",
+          "level": 1,
+          "price": 100,
+          "hands": 2,
+          "bulk": "L",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Locks",
+          "name": "Average",
+          "level": 3,
+          "price": "1,000",
+          "hands": 2,
+          "bulk": "L",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Locks",
+          "name": "Good",
+          "level": 6,
+          "price": "3,600",
+          "hands": 2,
+          "bulk": "L",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Locks",
+          "name": "Superior",
+          "level": 14,
+          "price": "60,000",
+          "hands": 2,
+          "bulk": "L",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Medical Gear",
+          "name": "Medkit, basic",
+          "level": 1,
+          "price": 100,
+          "hands": 2,
+          "bulk": 1,
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Medical Gear",
+          "name": "Medpatch",
+          "level": 1,
+          "price": 50,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 1,
+          "item_usage": 1
+        },
+        {
+          "type": "Medical Gear",
+          "name": "Medkit, advanced",
+          "level": 5,
+          "price": "2,700",
+          "hands": 2,
+          "bulk": 1,
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Medical Gear",
+          "name": "Sprayflesh",
+          "level": 5,
+          "price": 440,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 1,
+          "item_usage": 1
+        },
+        {
+          "type": "Medical Gear",
+          "name": "Medical lab",
+          "level": 7,
+          "price": "7,000",
+          "hands": 2,
+          "bulk": 50,
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Portable Lights",
+          "name": "Beacon",
+          "level": 1,
+          "price": 25,
+          "hands": 2,
+          "bulk": 1,
+          "capacity": 10,
+          "item_usage": "1/hour"
+        },
+        {
+          "type": "Portable Lights",
+          "name": "Flashlight",
+          "level": 1,
+          "price": 1,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 10,
+          "item_usage": "1/hour"
+        },
+        {
+          "type": "Portable Lights",
+          "name": "Lantern",
+          "level": 1,
+          "price": 1,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 10,
+          "item_usage": "1/hour"
+        },
+        {
+          "type": "Portable Lights",
+          "name": "Spotlight",
+          "level": 1,
+          "price": 25,
+          "hands": 2,
+          "bulk": 1,
+          "capacity": 10,
+          "item_usage": "1/hour"
+        },
+        {
+          "type": "Restraints",
+          "name": "Binders",
+          "level": 1,
+          "price": 5,
+          "hands": "",
+          "bulk": "",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Restraints",
+          "name": "Manacles",
+          "level": 4,
+          "price": 350,
+          "hands": "",
+          "bulk": 1,
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Other",
+          "name": "Signal jammer",
+          "level": null,
+          "price": "Level squared × 100",
+          "hands": "",
+          "bulk": "L",
+          "capacity": 12,
+          "item_usage": "1/10 minute"
+        },
+        {
+          "type": "Other",
+          "name": "Detonator",
+          "level": 1,
+          "price": 150,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 5,
+          "item_usage": "1/use"
+        },
+        {
+          "type": "Other",
+          "name": "Fire extinguisher",
+          "level": 1,
+          "price": 15,
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 20,
+          "item_usage": "1/round"
+        },
+        {
+          "type": "Other",
+          "name": "Tool kit",
+          "level": 1,
+          "price": 20,
+          "hands": "",
+          "bulk": "L",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Other",
+          "name": "Grappler",
+          "level": 2,
+          "price": 700,
+          "hands": "",
+          "bulk": "L",
+          "capacity": 20,
+          "item_usage": "1/minute"
+        },
+        {
+          "type": "Other",
+          "name": "Holoskin",
+          "level": 2,
+          "price": 500,
+          "hands": "",
+          "bulk": "L",
+          "capacity": 20,
+          "item_usage": "1/10 minute"
+        },
+        {
+          "type": "Other",
+          "name": "Tool kit, Engineering specialty",
+          "level": 2,
+          "price": 445,
+          "hands": "",
+          "bulk": "L",
+          "capacity": "",
+          "item_usage": ""
+        },
+        {
+          "type": "Other",
+          "name": "Laser microphone",
+          "level": 5,
+          "price": "2,725",
+          "hands": 2,
+          "bulk": "L",
+          "capacity": 10,
+          "item_usage": "1/minute"
+        },
+        {
+          "type": "Other",
+          "name": "Spy Drone",
+          "level": 6,
+          "price": "4,550",
+          "hands": "",
+          "bulk": "L",
+          "capacity": 20,
+          "item_usage": "1/minute"
+        },
+        {
+          "type": "Other",
+          "name": "Motion detector",
+          "level": 7,
+          "price": "6,000",
+          "hands": 1,
+          "bulk": "L",
+          "capacity": 10,
+          "item_usage": "1/hour"
+        },
+        {
+          "type": "Other",
+          "name": "X-ray visor",
+          "level": 9,
+          "price": "15,000",
+          "hands": "",
+          "bulk": "L",
+          "capacity": 40,
+          "item_usage": "1/round"
+        },
+        {
+          "type": "Other",
+          "name": "Regeneration table",
+          "level": 16,
+          "price": "45,000",
+          "hands": 2,
+          "bulk": 20,
+          "capacity": "",
+          "item_usage": ""
+        }
+    ]
+}

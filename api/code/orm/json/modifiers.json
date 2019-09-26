@@ -1,0 +1,731 @@
+{
+  "modifiers":
+  [
+    {
+      "name": "darkvision",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "Darkvision is the ability to see with no light source at all, out to a range specified in the creature’s description. Darkvision is black and white only (colors cannot be discerned). It does not allow characters to see anything that they could not see otherwise when a creature has darkvision, invisible objects and creatures are still invisible, and illusions are still visible as what they seem to be. Likewise, darkvision subjects a creature to gaze attacks normally (see the Starfinder Alien Archive). The presence of light does not affect darkvision."
+    },
+    {
+      "name": "low-light vision",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "Characters with low-light vision can see in dim light as if it were normal light"
+    },
+    {
+      "name": "blindsense",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "Blindsense is the ability to use an imprecise nonvisual sense (or a combination of senses) to operate effectively without vision. Blindsense operates out to a range specified in the creature’s description. A creature with blindsense typically perceives using a specific sense, which is indicated in parentheses after the blindsense entry in the creature’s statistics. If the indicated sense somehow becomes unusablesay, for example, if a creature that uses sound to perceive through its blindsense becomes deafthe creature loses access entirely to its blindsense. The typical senses through which creatures with blindsense can perceive are emotion, life, scent, sound, thought, and vibration. If you have the blindsense special ability and succeed at a Perception check to notice an unseen creature, you become aware of the creature’s location. Blindsense negates the bonuses to Stealth checks that an unseen creature would otherwise receive, but unseen creatures still have total concealment against the attacks of creatures with blindsense, and creatures with blindsense are still flat-footed against the attacks of unseen creatures. See Dealing with Unseen Creatures for more information."
+    },
+    {
+      "name": "blindsight",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "Blindsight is a precise nonvisual sense (or a combination of senses) that functions as a more potent version of blindsense. Blindsight operates out to a range specified in the creature’s description. A creature with blindsight typically perceives using a specific sense, which is indicated in parentheses after the blindsight entry in the creature’s statistics. If the indicated sense somehow becomes unusablesay, for example, if a creature that uses scent to perceive through its blindsight loses its sense of smellthe creature loses access entirely to its blindsight. The typical senses through which creatures with blindsight can perceive are emotion, life, scent, sound, thought, and vibration. If you have blindsight and succeed at a Perception check to notice a hidden creature, you are observing the creature. Blindsight negates concealment, displacement, invisibility, magical darkness, and similar effects, though a creature with blindsight still can’t perceive ethereal creatures (see the ethereal jaunt spell). A creature with blindsight cannot be blinded and is not subject to gaze attacks (see the Starfinder Alien Archive). Blindsight is still limited in many ways compared to normal vision. Blindsight never allows a creature to distinguish color or visual contrast, though it might be able to make out other features depending on the sense. A creature cannot read written text with blindsight, though it could still use tactile communication. Blindsight works underwater and in fog or smoke, but it typically does not work in a vacuum (although this depends on the nature of the sense; for instance, emotion-based blindsight would work in a vacuum)."
+    },
+    {
+      "name": "1 Stamina / level",
+      "effected_stat": "stamina",
+      "modification": 0,
+      "description": "1 Stamina Point per character level"
+    },
+    {
+      "name": "incorporeal",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "An incorporeal creature doesn’t have a physical body. It is immune to all nonmagical kinetic attacks. All energy attacks and magical kinetic attacks deal half damage (50%) to it. An incorporeal creature takes full damage from other incorporeal creatures and effects, as well as from all force effects. Corporeal spells and effects that do not cause damage have only a 50% chance of affecting an incorporeal creature. An incorporeal creature is immune to critical hits. Incorporeal creatures’ attacks always target their enemies’ Energy Armor Class. Incorporeal creatures cannot take any physical actions that would move or manipulate an opponent or its equipment, including combat maneuvers, nor are they subject to any such actions. An incorporeal creature can enter or pass through solid objects but must remain adjacent to such an object’s exterior, and so it cannot pass through the center of an object whose space is larger than its own. It can sense the presence of creatures or objects within squares adjacent to its current location, but enemies have total concealment (50% miss chance; see Concealment) from an incorporeal creature that is inside an object. An incorporeal creature inside an object has total cover, but when it attacks a creature outside the object it has only cover (see Cover). An incorporeal creature cannot pass through a force effect. Incorporeal creatures pass through and operate in vacuum, water, and zero gravity as easily as they do in air. Incorporeal creatures cannot fall or take falling damage. They have no weight and do not set off traps that are triggered only by weight. Incorporeal creatures move silently and cannot be heard with Perception checks unless they wish to be. Any sense (including blindsense or blindsight) based on scent, sound, or touch is ineffective at perceiving incorporeal creatures. These creatures have an innate sense of direction and can move at full speed even when they cannot see."
+    },
+    {
+      "name": "invisible",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "An invisible creature is visually undetectable. A creature using only an imprecise sense, or whose only precise sense is vision, can’t observe an invisible creature, so the invisible creature is unseen by such a would-be observer. Creatures with blindsight can perceive invisible creatures normally, since blindsight is a precise sense that does not rely on vision, and thus can observe invisible creatures. See Senses and Dealing with Unseen Creatures for more information. Invisible creatures remain invisible even in unusual environments, such as underwater, and when subject to effects such as fog or smoke. They are not magically silenced. They can still be heard, smelled, and felt as normal, even if other creatures can’t see them. Invisible creatures leave tracks and can be tracked normally. A character looking for an invisible creature might find his quarry if the invisible creature drops an item, speaks, smells strongly, leaves an obvious trail, or performs some action that makes itself known. Finding an invisible creature in this way requires a Perception check as normal. If successful, and assuming your only precise sense is vision, you become aware of the invisible creature’s presence, but you don’t know its exact location. If you’re looking for an invisible creature, the GM might rule that you have a bonus or penalty to your Perception checks based on the situation. Items dropped or put down by an invisible creature become visible; items it picks up disappear if tucked into the clothing or pouches worn by the creature. Light, however, never becomes invisible, although a source of light can become so (thus creating the effect of a light with no visible source). Any part of an item that the creature carries but that extends more than 10 feet from it becomes visible. Invisibility does not thwart divination spells or effects. Invisible creatures cannot use gaze attacks (see the Starfinder Alien Archive). If you are or become invisible while grappled, you gain a +2 circumstance bonus to your check to escape being grappled, but you gain no other benefit against the grappler."
+    },
+    {
+      "name": "sense through",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "An invisible creature is visually undetectable. A creature using only an imprecise sense, or whose only precise sense is vision, can’t observe an invisible creature, so the invisible creature is unseen by such a would-be observer. Creatures with blindsight can perceive invisible creatures normally, since blindsight is a precise sense that does not rely on vision, and thus can observe invisible creatures. See Senses and Dealing with Unseen Creatures for more information. Invisible creatures remain invisible even in unusual environments, such as underwater, and when subject to effects such as fog or smoke. They are not magically silenced. They can still be heard, smelled, and felt as normal, even if other creatures can’t see them. Invisible creatures leave tracks and can be tracked normally. A character looking for an invisible creature might find his quarry if the invisible creature drops an item, speaks, smells strongly, leaves an obvious trail, or performs some action that makes itself known. Finding an invisible creature in this way requires a Perception check as normal. If successful, and assuming your only precise sense is vision, you become aware of the invisible creature’s presence, but you don’t know its exact location. If you’re looking for an invisible creature, the GM might rule that you have a bonus or penalty to your Perception checks based on the situation. Items dropped or put down by an invisible creature become visible; items it picks up disappear if tucked into the clothing or pouches worn by the creature. Light, however, never becomes invisible, although a source of light can become so (thus creating the effect of a light with no visible source). Any part of an item that the creature carries but that extends more than 10 feet from it becomes visible. Invisibility does not thwart divination spells or effects. Invisible creatures cannot use gaze attacks (see the Starfinder Alien Archive). If you are or become invisible while grappled, you gain a +2 circumstance bonus to your check to escape being grappled, but you gain no other benefit against the grappler."
+    },
+    {
+      "name": "blocking sense through",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "Some sense through abilities (generally those of a magical nature) cannot penetrate specific materials. This is indicated in brackets after the associated sense in the sense through entry in the creature’s statistics. For example, a lycanthrope with sense through (scent [blocked by silver]) can smell through wallsbut not through even a thin layer of silver. Unless stated otherwise, in addition to all other limitations, sense through is blocked by energy fields and sufficiently dense material. This includes all energy fields that impact the physical world (such as force fields that grant temporary Hit Points and force effects such as the wall of force spell). The density limitation generally causes these senses to be blocked by 10 feet of wood or plastic, 5 feet of stone, 1 foot of common metal, or 6 inches of lead or any starmetal (such as adamantine). Typical suits of armor and containers do not block such vision unless they specify otherwise."
+    },
+    {
+      "name": "-2 to sense motive",
+      "effected_stat": "sense motive",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "telepathy",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "A creature with the telepathy special ability can mentally communicate with any other creature within a certain range (specified in the creature’s description, though the range of telepathy is usually 100 feet) that knows a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time."
+    },
+    {
+      "name": "limited telepathy",
+      "effected_stat": "",
+      "modification": 0,
+      "description": "Limited telepathy functions in the same manner as telepathy, except that both the creature with the limited telepathy special ability and the creature it is communicating with must have a language in common."
+    },
+    {
+      "name": "1 Feat",
+      "effected_stat": "feats",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 Skill",
+      "effected_stat": "skills",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 Culture",
+      "effected_stat": "culture",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "2 Acrobatics",
+      "effected_stat": "acrobatics",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Athletics",
+      "effected_stat": "athletics",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Charisma",
+      "effected_stat": "charisma",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 to Any Skill",
+      "effected_stat": "any skill",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Intelligence",
+      "effected_stat": "intelligence",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "-2 Constitution",
+      "effected_stat": "constitution",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "2 Diplomacy",
+      "effected_stat": "diplomacy",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Culture",
+      "effected_stat": "culture",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Engineering",
+      "effected_stat": "engineering",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Stealth",
+      "effected_stat": "stealth",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 Survival",
+      "effected_stat": "survival",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "3 acrobatics",
+      "effected_stat": "acrobatics",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 athletics",
+      "effected_stat": "athletics",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 bluff",
+      "effected_stat": "bluff",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 computers",
+      "effected_stat": "computers",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 culture",
+      "effected_stat": "culture",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 diplomacy",
+      "effected_stat": "diplomacy",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 disguise",
+      "effected_stat": "disguise",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 engineering",
+      "effected_stat": "engineering",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 intimidate",
+      "effected_stat": "intimidate",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 life science",
+      "effected_stat": "life science",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 medicine",
+      "effected_stat": "medicine",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 mysticism",
+      "effected_stat": "mysticism",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 perception",
+      "effected_stat": "perception",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 physical science",
+      "effected_stat": "physical science",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 piloting",
+      "effected_stat": "piloting",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 profession",
+      "effected_stat": "profession",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 sense motive",
+      "effected_stat": "sense motive",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 sleight of hand",
+      "effected_stat": "sleight of hand",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 stealth",
+      "effected_stat": "stealth",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "3 survival",
+      "effected_stat": "survival",
+      "modification": 3,
+      "description": ""
+    },
+    {
+      "name": "acrobatics class skill",
+      "effected_stat": "acrobatics",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "athletics class skill",
+      "effected_stat": "athletics",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "bluff class skill",
+      "effected_stat": "bluff",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "computers class skill",
+      "effected_stat": "computers",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "culture class skill",
+      "effected_stat": "culture",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "diplomacy class skill",
+      "effected_stat": "diplomacy",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "disguise class skill",
+      "effected_stat": "disguise",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "engineering class skill",
+      "effected_stat": "engineering",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "intimidate class skill",
+      "effected_stat": "intimidate",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "life science class skill",
+      "effected_stat": "life science",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "medicine class skill",
+      "effected_stat": "medicine",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "mysticism class skill",
+      "effected_stat": "mysticism",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "perception class skill",
+      "effected_stat": "perception",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "physical science class skill",
+      "effected_stat": "physical science",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "piloting class skill",
+      "effected_stat": "piloting",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "profession class skill",
+      "effected_stat": "profession",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "sense motive class skill",
+      "effected_stat": "sense motive",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "sleight of hand class skill",
+      "effected_stat": "sleight of hand",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "stealth class skill",
+      "effected_stat": "stealth",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "survival class skill",
+      "effected_stat": "survival",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "Climb Speed = Base Speed",
+      "effected_stat": "climb",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "Can Cast Minor Mystic Spells",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "2 resolve",
+      "effected_stat": "resolve",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 fortitude",
+      "effected_stat": "fortitude",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "4 initiative",
+      "effected_stat": "initiative",
+      "modification": 4,
+      "description": ""
+    },
+    {
+      "name": "2 will",
+      "effected_stat": "will",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 reflex",
+      "effected_stat": "reflex",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "Swim = Base",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "Minor Technomancer Spells",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack if proficient",
+      "effected_stat": "attack",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "Specialization for All Proficiencies",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Advanced Melee",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Basic Melee",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Grenades",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Heavy Weapons",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Longarms",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Small Arms",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Sniper Weapons",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 attack with Special Weapons",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Advanced Melee",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Basic Melee",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Grenades",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Heavy Weapons",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Longarms",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Small Arms",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Sniper Weapons",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 damage with Special Weapons",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "1 dexterity",
+      "effected_stat": "dexterity",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 constitution",
+      "effected_stat": "constitution",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 charisma",
+      "effected_stat": "charisma",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 strength",
+      "effected_stat": "strength",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 wisdom",
+      "effected_stat": "wisdom",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 intelligence",
+      "effected_stat": "intelligence",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "1 any ability",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "athletics class skill",
+      "effected_stat": "athletics",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "culture class skill",
+      "effected_stat": "culture",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "life science class skill",
+      "effected_stat": "life science",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "mysticism class skill",
+      "effected_stat": "mysticism",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "physical science class skill",
+      "effected_stat": "physical science",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "piloting class skill",
+      "effected_stat": "piloting",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "sleight of hand class skill",
+      "effected_stat": "sleight of hand",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "survival class skill",
+      "effected_stat": "survival",
+      "modification": 1,
+      "description": ""
+    },
+    {
+      "name": "2 dexterity",
+      "effected_stat": "dexterity",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 constitution",
+      "effected_stat": "constitution",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 charisma",
+      "effected_stat": "charisma",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 strength",
+      "effected_stat": "strength",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 wisdom",
+      "effected_stat": "wisdom",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 intelligence",
+      "effected_stat": "intelligence",
+      "modification": 2,
+      "description": ""
+    },
+    {
+      "name": "2 any ability",
+      "effected_stat": "",
+      "modification": 0,
+      "description": ""
+    },
+    {
+      "name": "-2 dexterity",
+      "effected_stat": "dexterity",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "-2 constitution",
+      "effected_stat": "constitution",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "-2 charisma",
+      "effected_stat": "charisma",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "-2 strength",
+      "effected_stat": "strength",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "-2 wisdom",
+      "effected_stat": "wisdom",
+      "modification": -2,
+      "description": ""
+    },
+    {
+      "name": "-2 intelligence",
+      "effected_stat": "intelligence",
+      "modification": -2,
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+    "effect_ranges":
+    [
+        {
+          "name": "personal",
+          "description": "An effect with a range of personal is limited to and affects your person only."
+        },
+        {
+          "name": "touch",
+          "description": "If an effect has a range of touch, you must touch a creature or object to affect your target, which requires you to hit with a melee attack roll (against EAC unless the effect says otherwise) if you are touching an unwilling target. A touch effect that deals damage can score a critical hit just as a weapon can. Some touch effects allow you to touch multiple targets. You can touch up to six willing or unconscious targets as part of the activation of such an effect, but all targets of the effect must be touched in the same round that you finish activating the effect. If the effect allows you to touch targets over multiple rounds, touching up to six creatures is a full action."
+        },
+        {
+          "name": "close",
+          "description": "An effect with a range of close reaches as far as 25 feet + 5 feet for every 2 levels you have."
+        },
+        {
+          "name": "medium",
+          "description": "An effect with a range of medium reaches as far as 100 feet + 10 feet per level you have."
+        },
+        {
+          "name": "long",
+          "description": "An effect with a range of long reaches as far as 400 feet + 40 feet per level you have."
+        },
+        {
+          "name": "planetary",
+          "description": "An effect with a range of planetary can reach anywhere on the same planet. This also covers targets in orbit around the planet, such as moons and artificial satellites."
+        },
+        {
+          "name": "system-wide",
+          "description": "An effect with a range of system-wide can reach anywhere in the same solar system."
+        },
+        {
+          "name": "plane",
+          "description": "An effect with a range of plane can reach anywhere in the same plane of existence."
+        },
+        {
+          "name": "unlimited",
+          "description": "Some effects, mostly high-level spells, can reach anywhere, even onto other planes. Effects with ranges of unlimited are often very powerful, and they can be difficult or impossible to access until you reach a high level."
+        },
+        {
+          "name": "120 ft.",
+          "description": "This effect has a range of 120 feet."
+        },
+        {
+          "name": "0 ft.",
+          "description": "This effect will occur where the spellcaster is standing."
+        },
+        {
+          "name": "60 ft.",
+          "description": "This effect has a range of 60 feet."
+        },
+        {
+          "name": "see description",
+          "description": "Read the description for more information about this effect's range."
+        },
+        {
+          "name": "30 ft.",
+          "description": "This effect has a range of 30 feet."
+        },
+        {
+          "name": "5 ft.",
+          "description": "This effect has a range of 5 feet."
+        },
+        {
+          "name": "10 ft.",
+          "description": "This effect has a range of 10 feet."
+        },
+        {
+          "name": "15 ft.",
+          "description": "This effect has a range of 15 feet."
+        },
+        {
+          "name": "1 mile",
+          "description": "This effect has a range of 1 mile."
+        },
+        {
+          "name": "20 ft.",
+          "description": "This effect has a range of 20 feet."
+        },
+        {
+          "name": "2,000 miles",
+          "description": "This effect has a range of 2,000 miles."
+        },
+        {
+          "name": "100 ft.",
+          "description": "This effect has a range of 100 feet."
+        }
+    ]
+}

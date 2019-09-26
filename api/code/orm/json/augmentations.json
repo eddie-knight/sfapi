@@ -1,0 +1,301 @@
+{
+  "augmentations":
+  [
+    {
+      "name": "Cardiac Accelerator",
+      "system": "Heart",
+      "model": "",
+      "level": 6,
+      "price": 3850,
+      "biotech": 0
+    },
+    {
+      "name": "Cybernetic Arm",
+      "system": "Spinal Column",
+      "model": "Single",
+      "level": 11,
+      "price": 24750,
+      "biotech": 0
+    },
+    {
+      "name": "Cybernetic Arm",
+      "system": "Spinal Column",
+      "model": "Dual",
+      "level": 14,
+      "price": 70150,
+      "biotech": 0
+    },
+    {
+      "name": "Darkvision Capacitors",
+      "system": "Eyes",
+      "model": "Standard",
+      "level": 3,
+      "price": 1750,
+      "biotech": 0
+    },
+    {
+      "name": "Darkvision Capacitors",
+      "system": "Eyes",
+      "model": "Advanced",
+      "level": 8,
+      "price": 9000,
+      "biotech": 0
+    },
+    {
+      "name": "Darkvision Capacitors",
+      "system": "Eyes",
+      "model": "Long-range",
+      "level": 13,
+      "price": 48950,
+      "biotech": 0
+    },
+    {
+      "name": "Datajack",
+      "system": "Brain",
+      "model": "Standard",
+      "level": 2,
+      "price": 625,
+      "biotech": 0
+    },
+    {
+      "name": "Datajack",
+      "system": "Brain",
+      "model": "High-density",
+      "level": 5,
+      "price": 2600,
+      "biotech": 0
+    },
+    {
+      "name": "Datajack",
+      "system": "Brain",
+      "model": "Accelerated",
+      "level": 8,
+      "price": 8525,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 1",
+      "level": 5,
+      "price": 3025,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 2",
+      "level": 7,
+      "price": 6950,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 3",
+      "level": 9,
+      "price": 17975,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 4",
+      "level": 12,
+      "price": 48850,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 5",
+      "level": 14,
+      "price": 105000,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 6",
+      "level": 16,
+      "price": 163500,
+      "biotech": 0
+    },
+    {
+      "name": "Dermal Plating",
+      "system": "Skin",
+      "model": "Mk 7",
+      "level": 19,
+      "price": 542000,
+      "biotech": 0
+    },
+    {
+      "name": "Hideaway Limb",
+      "system": "Arm or Leg",
+      "model": "Standard",
+      "level": 1,
+      "price": 150,
+      "biotech": 0
+    },
+    {
+      "name": "Hideaway Limb",
+      "system": "Arm or Leg",
+      "model": "Quickdraw",
+      "level": 5,
+      "price": 3050,
+      "biotech": 0
+    },
+    {
+      "name": "Polyhand",
+      "system": "Hand",
+      "model": "",
+      "level": 14,
+      "price": 71000,
+      "biotech": 0
+    },
+    {
+      "name": "Prosthetic Limb",
+      "system": "Arm or Leg",
+      "model": "Standard",
+      "level": 1,
+      "price": 100,
+      "biotech": 0
+    },
+    {
+      "name": "Prosthetic Limb",
+      "system": "Arm or Leg",
+      "model": "Storage",
+      "level": 3,
+      "price": 1450,
+      "biotech": 0
+    },
+    {
+      "name": "Respiration Compounder",
+      "system": "Lungs",
+      "model": "",
+      "level": 1,
+      "price": 250,
+      "biotech": 0
+    },
+    {
+      "name": "Retinal Reflectors",
+      "system": "Eyes",
+      "model": "",
+      "level": 3,
+      "price": 1350,
+      "biotech": 0
+    },
+    {
+      "name": "Speed Suspension",
+      "system": "All Legs",
+      "model": "Minimal",
+      "level": 4,
+      "price": 1900,
+      "biotech": 0
+    },
+    {
+      "name": "Speed Suspension",
+      "system": "All Legs",
+      "model": "Stanadard",
+      "level": 8,
+      "price": 8800,
+      "biotech": 0
+    },
+    {
+      "name": "Speed Suspension",
+      "system": "All Legs",
+      "model": "Complete",
+      "level": 12,
+      "price": 32900,
+      "biotech": 0
+    },
+    {
+      "name": "Vocal Modulator",
+      "system": "Throat",
+      "model": "",
+      "level": 1,
+      "price": 125,
+      "biotech": 0
+    },
+    {
+      "name": "Wide-Spectrum Ocular Implant",
+      "system": "Eyes",
+      "model": "",
+      "level": 3,
+      "price": 1350,
+      "biotech": 0
+    },
+    {
+      "name": "Adaptive biochains",
+      "system": "Varies",
+      "model": "",
+      "level": 3,
+      "price": 0,
+      "biotech": 1
+    },
+    {
+      "name": "Climbing suckers",
+      "system": "",
+      "model": "",
+      "level": 3,
+      "price": 1200,
+      "biotech": 1
+    },
+    {
+      "name": "Dragon gland",
+      "system": "Throat",
+      "model": "Wyrmling",
+      "level": 2,
+      "price": 755,
+      "biotech": 1
+    },
+    {
+      "name": "Dragon gland",
+      "system": "Throat",
+      "model": "Standard",
+      "level": 10,
+      "price": 19125,
+      "biotech": 1
+    },
+    {
+      "name": "Dragon gland",
+      "system": "Throat",
+      "model": "Wyrm",
+      "level": 16,
+      "price": 181500,
+      "biotech": 1
+    },
+    {
+      "name": "Gill sheath",
+      "system": "Lungs",
+      "model": "",
+      "level": 1,
+      "price": 95,
+      "biotech": 1
+    },
+    {
+      "name": "Skin of the Chameleon",
+      "system": "Skin",
+      "model": "",
+      "level": 6,
+      "price": 4050,
+      "biotech": 1
+    },
+    {
+      "name": "Tympanal Cluster",
+      "system": "Ears",
+      "model": "",
+      "level": 4,
+      "price": 2150,
+      "biotech": 1
+    },
+    {
+      "name": "Venom Spur",
+      "system": "Hand",
+      "model": "",
+      "level": 2,
+      "price": 625,
+      "biotech": 1
+    }
+  ]
+}

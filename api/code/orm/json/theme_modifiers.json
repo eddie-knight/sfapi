@@ -1,0 +1,73 @@
+{
+    "theme_modifiers":
+    [
+      {
+        "theme_id": 1,
+        "modifier_id": 106
+      },
+      {
+        "theme_id": 1,
+        "modifier_id": 95
+      },
+      {
+        "theme_id": 2,
+        "modifier_id": 108
+      },
+      {
+        "theme_id": 2,
+        "modifier_id": 95
+      },
+      {
+        "theme_id": 3,
+        "modifier_id": 102
+      },
+      {
+        "theme_id": 3,
+        "modifier_id": 96
+      },
+      {
+        "theme_id": 4,
+        "modifier_id": 101
+      },
+      {
+        "theme_id": 4,
+        "modifier_id": 97
+      },
+      {
+        "theme_id": 5,
+        "modifier_id": 107
+      },
+      {
+        "theme_id": 5,
+        "modifier_id": 94
+      },
+      {
+        "theme_id": 6,
+        "modifier_id": 104
+      },
+      {
+        "theme_id": 6,
+        "modifier_id": 98
+      },
+      {
+        "theme_id": 7,
+        "modifier_id": 99
+      },
+      {
+        "theme_id": 8,
+        "modifier_id": 106
+      },
+      {
+        "theme_id": 8,
+        "modifier_id": 95
+      },
+      {
+        "theme_id": 10,
+        "modifier_id": 103
+      },
+      {
+        "theme_id": 10,
+        "modifier_id": 96
+      }
+    ]
+}

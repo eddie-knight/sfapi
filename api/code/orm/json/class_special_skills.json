@@ -1,0 +1,2042 @@
+{
+    "class_special_skills":
+    [
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Distracting Hack (Ex)",
+          "description": "You can hack a computer within 30 feet of a foe to distract that foe, such as with a sudden noise or an image. You must be able to access the computer (whether it is your own computer or you are within range to access one manually or via remote hack). This functions as a feint action except that it uses your Computers skill instead of Bluff, so you can apply the benefits of Improved Feint and Greater Feint if you have them."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Energy Shield (Ex)",
+          "description": "As a standard action, you can use your custom rig to activate an energy shield around yourself. This shield provides you with a number of temporary Hit Points equal to your Intelligence modifier plus your mechanic level. The shield remains active for 1 minute per mechanic level or until all of its temporary Hit Points are depleted, whichever comes first. Once used, you cannot use this ability again until you spend 1 Resolve Point to regain Stamina Points after a 10-minute rest; your shield automatically shuts off during this period of rest."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Hack Directory (Ex)",
+          "description": "Whenever you attempt to hack a system and fail the check, you immediately become aware of any countermeasures that were activated due to your failure. You can then select one of these countermeasures and attempt another Computers check (with the same DC as the original). If you succeed at this second check, you can prevent that countermeasure from activating, as if you had not attempted to access the system at all. Any other countermeasures have their normal effect."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Neural Shunt (Ex)",
+          "description": "Once per day, as a reaction when you fail a saving throw against a mind-affecting effect, you can shunt that effect into your exocortex instead. When you do so, you are not affected by the mind-affecting effect, but for the normal duration of that effect, you lose the Skill Focus feat granted by your exocortex’s memory module and cannot use any of the exocortex’s abilities in any way (including any proficiencies and mods it grants you). When a mind-affecting effect is shunted into the exocortex, spells such as dispel magic or break enchantment can be cast on you to end the effect as if you were affected by it. Once the duration of the mind- affecting effect has ended, your exocortex resumes its normal functions. You must have an exocortex to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Nightvision Processor (Ex)",
+          "description": "Your visual data processor allows you to see better in conditions of poor lighting, granting you low-light vision and darkvision to a range of 60 feet. You must have the visual data processor mechanic trick to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Overcharge (Ex)",
+          "description": "As a standard action, you can use your custom rig to overcharge and attack with a ranged energy weapon or a melee weapon with the powered special property (see page 181) that you’re holding. If you hit, you deal 1d6 additional damage of the same type the weapon normally deals. This attack uses three times as many charges from the battery or power cell as normal and can’t be used if the weapon doesn’t have enough charges. This trick has no effect on a weapon without a battery or power cell. You can instead use this ability as a move action on a touched powered weapon that is unattended or attended by an ally to grant the same effect to that weapon’s next attack before the beginning of your next turn."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Overclocking (Ex)",
+          "description": "You have augmented the performance of your AI for maximum response timing. You gain a +2 insight bonus to initiative checks, and either you (if you have an exocortex) or your drone (if you have a drone) gains a +2 insight bonus to Reflex saves."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Overload Weapon (Ex)",
+          "description": "As a full action or as a move action by spending 1 Resolve Point, you can cause a powered weapon (either a ranged energy weapon or a melee weapon with the powered special property) in your possession to explode. You can use the weapon as if it were a grenade of the weapon’s item level or lower dealing the weapon’s normal damage type, except the weapon has a range increment of only 10 feet unless it is a thrown weapon. If someone tries to attack with the weapon, it explodes as a grenade would instead, centered on the user, and the user doesn’t receive a Reflex save to negate the grenade’s effect (if any). Once you’ve primed a weapon to explode in this way, it’s difficult to reverse the effect, requiring 8 hours of work and a successful Engineering check (DC = 15 + your Engineering bonus); failing the check by 5 or more detonates the weapon. Once detonated, the weapon is destroyed, just like a grenade."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Portable Power (Ex)",
+          "description": "You can use your custom rig to supply limited power for up to 1 minute to a computer or starship system that lacks power. If this system is part of a much larger network, this trick does not supply power to the entire network, just to a limited point of access (typically a terminal), which might greatly limit functionality. Once you have used portable power on a system, you cannot do so again on that system for 24 hours."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Quick Patch (Ex)",
+          "description": "When you attempt to patch a system on a starship, you reduce the number of actions required to do so by one. This does not reduce the time needed to patch a glitching system, but you can patch two systems with one action."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Quick Repair (Ex)",
+          "description": "When you attempt to repair an item, you can do so in half the time normally required (to a minimum of a full action)."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Repair Drone (Ex)",
+          "description": "When you spend 10 minutes to repair your drone, you repair 25% of its maximum Hit Points instead of 10%. You must have a drone to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Visual Data Processor (Ex)",
+          "description": "You notice even the smallest shifts in movement, temperature, and vibration, gaining the insight bonus from your bypass class feature to Perception skill checks."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Boost Shield (Ex)",
+          "description": "Your energy shield grants you a number of temporary Hit Points equal to your Intelligence modifier + double your mechanic level. In addition, if you have already used your shield, you can spend 1 Resolve Point to use it again without having to regain Stamina Points first. This replenishes your shield’s temporary Hit Points to full. You must have the energy shield mechanic trick to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Drone Meld (Ex)",
+          "description": "As a full action while in contact with your drone, you can reconfigure it into a mechanical drone suit (or a backpack-like apparatus, for the Tiny hover drone) that you can wear. While in this form, the drone can’t take any actions or use any of its abilities, but you gain either the drone’s flight system mods if you have a hover drone, reactive camouflage (and an invisibility field if your drone has it) if you have a stealth drone, or reductive plating if you have a combat drone. You can end the meld and return the drone to its normal form as a full action. Though it normally acts on your turn just after you, the drone can take no actions on that turn other than transforming back."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Engineer’s Eye (Ex)",
+          "description": "When you are within 10 feet of a trapped or malfunctioning machine or computer, you receive a free Computers, Engineering, or Perception check (as decided by the GM) to notice the trap or defect, whether or not you are actively looking. In addition, due to your intimate knowledge of your ship, you receive one of these checks whenever you board your ship to notice if anything is wrong with the ship’s systems."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Ghost Intrusion (Ex)",
+          "description": "Whenever you use the Computers skill to access a system and you fail to overcome its defenses by 4 or less, you do not trigger any countermeasures and there is no log of your attempt. If you fail by 5 or more, any countermeasures take effect against you as normal."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Holographic Projector (Ex)",
+          "description": "Your custom rig can project holographic images as a standard action as often as you like, as per 2nd-level holographic image except it can create speech and has a range of only 120 feet."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Hyperclocking (Ex)",
+          "description": "You further improve the response time of your AI. If you have a drone, your drone gains a +1 insight bonus to AC. In addition, if your drone is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it succeeds at its saving throw. If you have an exocortex, you gain a +1 insight bonus to AC. In addition, whenever you fail a Reflex saving throw, you can spend 1 Resolve Point to reroll the saving throw (see page 243) and take the higher result. You must have the overclocking mechanic trick to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Improved Overcharge (Ex)",
+          "description": "The additional damage of the overcharge mechanic trick increases to 2d6. You must have the overcharge mechanic trick to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Invisibility Bypass Processor (Ex)",
+          "description": "Your visual data processor now allows you to see invisible creatures as per see invisibility. You must have the visual data processor mechanic trick to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Resistant Energy (Ex)",
+          "description": "Even when your energy shield is inactive, the ambient energy protects you from a particular type of energy attack. Choose acid, cold, electricity, fire, or sonic. You gain resistance 5 against that energy type. You must have the energy shield mechanic trick to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Scoutbot (Ex)",
+          "description": "You’re always crafting rudimentary bots in your spare time, and can use them to scout. It takes you 10 minutes and 1 Resolve Point to create a scoutbot. A scoutbot is a Small technological construct, its EAC and KAC are equal to 10 + your mechanic level, and it has 1 Hit Point per mechanic level you have (and no Stamina Points). It has a land speed of 30 feet, and you can control its movements with your custom rig as a move action. It has a camera that streams visual and auditory data back to your rig. The scoutbot uses your saving throw bonuses if necessary. It is untrained in all skills and has a +0 bonus in all of them, though you can use your own Perception skill when examining the feed from its stream. Once created, the scoutbot lasts for 1 minute per mechanic level you have before falling apart unless otherwise destroyed."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Extra Mod (Ex)",
+          "description": "If you have a drone, your drone gains an additional basic mod. If you have an exocortex, you gain an additional basic mod. It can’t be a basic mod taken a second time as an advanced mod. You can rebuild this extra mod when you gain a mechanic level as with any other mod, but you can’t rebuild this mod to convert it into the advanced version of the mod."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Improved Resistant Energy (Ex)",
+          "description": "Choose an additional energy type from resistant energy. You gain resistance 15 against both this and your original energy type. You must have the energy shield and resistant energy mechanic tricks to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Invisibility-Hampering Projector (Ex)",
+          "description": "As a move action, you can use your custom rig’s holographic projector to project a holographic image in a direct overlay over an invisible creature within 120 feet, and your custom rig’s computer moves the image to follow the invisible creature, effectively negating the creature’s invisibility as long as it remains within 120 feet of you. If it moves beyond that range, it breaks the effect until you use this ability again. You must have the holographic projector, invisibility bypass processor, and visual data processor mechanic tricks to learn this trick."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Mod Tinkerer (Ex)",
+          "description": "You can spend 24 hours of uninterrupted work to exchange all your drone or exocortex mods at any time, even if you haven’t gained a level. Any other drone features (such as its chassis or bonus feats) can still be exchanged only when you gain a level."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Saboteur (Ex)",
+          "description": "Whenever you use the Engineering skill to sabotage or disable a device, you can roll twice and take the better result. In addition, if you have the appropriate tools (including your custom rig), performing these tasks takes half the normal amount of time, to a minimum of 1 move action."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Superior Overcharge (Ex)",
+          "description": "The additional damage of the overcharge mechanic trick increases to 4d6. You must have the overcharge and improved overcharge mechanic tricks to learn this trick. You can select this trick multiple times. Each time you do after the first, increase the damage by 1d6 (to a maximum of 7d6 if you select it all four times)."
+        },
+        {
+          "feature_id": 4,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Ultraclocking (Ex)",
+          "description": "If you have a drone, you can grant the effects of haste to your drone for 1 minute as a move action. If you have an exocortex, you can gain the effects of haste for 1 minute as a move action. Once you or your drone has used this ability, you cannot use it again until you spend 1 Resolve Point to regain Stamina Points from a 10-minute rest. You must have the overclocking and hyperclocking mechanic tricks to learn this trick."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Clever Feint (Ex)",
+          "description": "As a standard action, you can fake out an enemy within 60 feet, making that enemy open to your attacks. Attempt a Bluff check with the same DC as a check to feint against that enemy (though this isn’t a standard check to feint, so Improved Feint and Greater Feint don’t apply). Even if you fail, that enemy is flat-footed against your attacks (see page 276) until the end of your next turn. If you succeed, the enemy is also flat-footed against your allies’ attacks until the end of your next turn. You can’t use clever feint against a creature that lacks an Intelligence score. At 6th level, you can spend 1 Resolve Point to treat a failed Bluff check for clever feint as if it were a success."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Dispiriting Taunt (Ex)",
+          "description": "As a standard action, you can taunt an enemy within 60 feet. Attempt an Intimidate check with the same DC as a check to demoralize that enemy (though this isn’t a check to demoralize, so you can’t use abilities that would apply to a demoralization attempt, like the rattling presence expertise talent). If you fail, that enemy is off-target (see page 276) until the end of your next turn. If you succeed, that enemy is instead shaken (see page 277) until the end of your next turn. This is an emotion and fear effect. At 6th level, you can spend 1 Resolve Point to treat a failed Intimidate check for dispiriting taunt as if it were a success."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Don’t Quit (Ex)",
+          "description": "As a standard action, you can signal a single ally within 60 feet. That ally ignores one condition (see page 273) of your choice until the start of your next turn, chosen from the following list: confused, fascinated, fatigued, shaken, sickened, and staggered. While your ally doesn’t suffer the effects of the condition during that period, the condition is merely suppressed, not removed, and its effects resume at the start of your next turn. The condition can still be removed with spells, technology, and other effects as normal. At 6th level, add the following conditions to the list: cowering, dazed, exhausted, frightened, nauseated, panicked, paralyzed, and stunned. At 12th level, you can spend 1 Resolve Point to remove the condition with this ability instead of suppressing it. You can’t remove a condition with a permanent duration (see page 271) in this way; if you attempt to do so, your attempt fails but you don’t lose the Resolve Point."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Expanded Attunement (Ex)",
+          "description": "You can use beneficial mind-affecting envoy improvisations to aid allies who usually would not be able to gain benefits from mind-affecting effects, such as constructs, robots, and undead. If the improvisation grants a morale bonus, even allies who can’t normally benefit from morale bonuses gain that bonus."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Get ’Em (Ex)",
+          "description": "As a move action, you can choose one enemy within 60 feet. Until the start of your next turn, you and your allies gain a +1 morale bonus to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of line of sight or hearing. At 6th level, you can spend 1 Resolve Point to grant this bonus to attack rolls and damage rolls against all enemies who are within 60 feet."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Inspiring Boost (Ex)",
+          "description": "As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy (see page 242) at any point after your last turn ended. That ally regains a number of Stamina Points (up to his maximum) equal to twice your envoy level + your Charisma modifier; at 15th level, this increases to three times your envoy level + your Charisma modifier. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points. At 6th level, you can spend 1 Resolve Point to add your envoy level to the number of Stamina Points regained."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Look Alive (Ex)",
+          "description": "When you spend a Resolve Point to regain Stamina Points after a 10-minute rest, all allies who stay within 60 feet of you throughout the rest gain a +2 morale bonus to Perception and initiative checks for the next hour or until the next 10-minute rest to recover Stamina Points, whichever comes first."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Not in the Face (Ex)",
+          "description": "As a move action, you can choose one enemy within 60 feet. That enemy must succeed at a Will save or take a –4 penalty to all attacks it makes against you until the end of your next turn. At 6th level, you can spend 1 Resolve Point to make the enemy take the penalty with no saving throw allowed."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Universal Expression (Ex)",
+          "description": "When using a language-dependent improvisation that affects an enemy, you can use the improvisation against that enemy even if the two of you do not share a language."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Watch Your Step (Ex)",
+          "description": "When an ally within 60 feet must succeed at a Reflex save to avoid a harmful effect, as a reaction before your ally attempts the saving throw, you can grant the ally a +2 bonus to that saving throw. At 6th level, you can spend 1 Resolve Point to have the ally roll twice on the saving throw and take the better result. Both of those rolls benefit from the +2 bonus provided by this ability."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Clever Attack (Ex)",
+          "description": "You can make an attack that throws your enemy off-balance. As a standard action, you can make a single attack against a target within 60 feet and gain the benefits of clever feint (attempting a Bluff check against the target as normal). Apply the effects of clever feint before resolving your attack. You must have the clever feint envoy improvisation to choose this improvisation."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Duck Under (Ex)",
+          "description": "You can duck under a foe’s melee attack, causing it to overextend and move into a position more favorable to you. You must take the total defense action (see page 247) to use this ability. If, before the start of your next turn, a foe misses you with a melee attack, as a reaction you can attempt a reposition combat maneuver with a +8 bonus to your attack roll against that foe."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Focus (Ex)",
+          "description": "As a standard action, you can encourage a single ally within 60 feet to focus on the danger at hand. If that ally is flat-footed or off-target, you end that condition. If circumstances would cause the ally to immediately become flat-footed or off-target again, you instead suppress that condition for 1 round."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Hurry (Ex)",
+          "description": "As a standard action, you can grant a single move action to an ally within 60 feet. The ally can use that move action during her next turn to take a guarded step, move up to her speed, or draw or sheathe a weapon. The ally can use her extra move action in between her other actions, and she can even use it before or after a full action. A character can use no more than one extra action from hurry in a single round."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Quick Dispiriting Taunt (Ex)",
+          "description": "You can use dispiriting taunt as a move action instead of a standard action. You must have the dispiriting taunt envoy improvisation to choose this improvisation."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Quick Inspiring Boost (Ex)",
+          "description": "You can use inspiring boost as a move action instead of a standard action, though when you do so, the number of Stamina Points your ally recovers is reduced by your envoy level. You must have the inspiring boost envoy improvisation to choose this improvisation."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Long-Range Improvisation (Ex)",
+          "description": "Double the range of your improvisations with ranges of at least 30 feet."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 4,
+          "name": "Watch Out (Ex)",
+          "description": "As a reaction, when an enemy makes a ranged attack against an ally within 60 feet of you, you can warn that ally of the danger. You must spend your reaction when the enemy declares the attack but before it makes the attack roll. Your ally can spend a reaction to gain a +4 to AC against the triggering attack. Once the triggering attack is resolved, the ally falls prone. At 8th level, you can spend 1 Resolve Point to prevent your ally from falling prone after the attack."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Clever Improvisations (Ex)",
+          "description": "The first time you would spend Resolve Points on one of your envoy improvisations, reduce the cost by 1 Resolve Point (minimum 0). This ability refreshes whenever you take a 10-minute rest to recover Stamina Points and after an 8-hour rest to recover Resolve Points, reducing the Resolve Point cost of your next envoy improvisation after the rest."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Draw Fire (Ex)",
+          "description": "As a standard action, you can spend 1 Resolve Point to make all enemies within 100 feet take a –4 penalty to all ranged attacks they make that don’t target you until the end of your next turn. This penalty remains even if you and an enemy move more than 100 feet away from each other, and enemies that weren’t within 100 feet when you used draw fire don’t take the penalty if they later come within range."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Heads Up (Ex)",
+          "description": "When you succeed at a Perception check, as a reaction, you can signal a single ally within 60 feet. That ally can act as if he had also succeeded at the Perception check with the same result."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Improved Get ’Em (Ex)",
+          "description": "Your morale bonus from get ’em increases to +2. As a standard action, you can make a single attack against a target within 60 feet. You and your allies within 60 feet gain the benefits of get ’em against that target (applying these effects before making the attack roll). As with get ’em, you can spend 1 Resolve Point to grant the benefits against all enemies within 60 feet. You must have the get ’em envoy improvisation to choose this improvisation."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Desperate Defense (Ex)",
+          "description": "As a move action, you can cause one ally adjacent to you to not be considered helpless (see page 276) for the purpose of actions that can be used only against helpless creatures (such as a coup de grace). This effect ends if the creature ceases to be adjacent to you or at the beginning of your next turn, whichever comes first."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Expert Attack (Ex)",
+          "description": "As a move action, you can spend 2 Resolve Points to add your bonus from expertise to your next attack roll before the end of your turn."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Hidden Agenda (Ex)",
+          "description": "You’re an expert at veiling your true thoughts and goals. Whenever a creature attempts a Sense Motive check to detect a deception of yours, the creature must roll twice and take the worse of the two results. When you attempt a saving throw against an effect or ability that would read your thoughts or reveal your motives, you can roll twice and take the better of the two results."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Improved Hurry (Ex)",
+          "description": "You can use the hurry envoy improvisation as a move action instead of a standard action. You must have the hurry envoy improvisation to choose this improvisation. At 12th level, you can use hurry as a standard action and spend 1 Resolve Point to grant a standard action instead of a move action."
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Situational Awareness (Ex)",
+          "description": "If you ready an action, once before the trigger you selected occurs, you can spend 1 Resolve Point to change both the trigger and the action you have ready. You must ready an action that takes the same kind of action as your originally readied action, or you must ready a lesser action. (For example, if you readied a standard action, you could switch to another standard action, a move action, or a swift action, and if you readied a move action, you could switch to another move action or a swift action.)"
+        },
+        {
+          "feature_id": 17,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Sustained Determination (Ex)",
+          "description": "As a move action, you can spend 2 Resolve Points to grant an ally within 60 feet 1 Resolve Point that he can spend to empower one of his abilities, even if he has spent all of his own Resolve Points. The ally must spend the Resolve Point before the start of your next turn; if he does not do so, he loses the Resolve Point and you still lose the Resolve Points you spent. You can’t grant the same ally the benefits of this ability again until both you and your ally have recovered your Resolve Points after an 8-hour rest or its equivalent."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Additional Skill Expertise (Ex)",
+          "description": "Choose another skill in which you have at least 1 rank from the list of skills you can choose with the expertise class feature; you can use expertise with that skill. You can choose this talent up to three times, choosing a different skill each time."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Altered Bearing (Ex; Disguise)",
+          "description": "You can quickly adjust your posture, your stride, your demeanor, and the way your clothes and gear fit, causing casual observers to fail to recognize your true appearance. When you attempt a Disguise check to alter minor details of your appearance, you can forgo your expertise die to attempt the check as a move action. You don’t reduce the DC by 5 for attempting to alter only minor details, and if an observer succeeds at an opposed Perception check that pierces your disguise, he also realizes your true race and what features you have disguised. You can’t use this ability for more complex disguises."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Analyst (Ex; Sense Motive)",
+          "description": "You have been taught to carefully consider your own assumptions, making it much less likely you assign false motives to other creatures. When using Sense Motive to detect deception or discern a secret message, as long as your expertise die roll result is not a 1, you don’t think a truthful statement contains deceptions or infer false information from a secret message even if you fail your check by 5 or more."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Cautious Expertise (Ex; see below)",
+          "description": "Choose a skill you have selected with the skill expertise class feature. When you take 20 (see page 133) with this skill, you can roll your expertise die twice and take the better result.\nYou can choose this talent up to three times, choosing a different skill selected with the skill expertise class feature each time."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Convincing Liar (Ex; Bluff)",
+          "description": "When you attempt a Bluff check, you can choose not to roll your expertise die until later. After you determine what the check’s result would be, you can choose to either roll your expertise die and add the result to the total or forgo the expertise die and reroll the check (see page 243). At 9th level, you can spend 1 Resolve Point to reroll the check and add the result of your expertise die."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Cultural Savant (Ex; Culture)",
+          "description": "As long as you have enough time, you can take 20 on Culture checks to recall knowledge, even if you don’t have access to a computer terminal or other means of research."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Cunning Disguise (Ex; Disguise)",
+          "description": "When you attempt an initial Disguise check, you can forgo rolling your expertise die. Instead, the first time a creature would pierce your disguise with a Perception check, treat its result as if it had rolled a natural 1 on its Perception check. This benefit applies only once per disguise. At 9th level, this ability also applies against the second creature who pierces your disguise."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Engineering Adept (Ex; Engineering)",
+          "description": "When you attempt an Engineering check to disable or repair a device, you can forgo rolling your expertise die to instead halve the time it takes to make the attempt."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Expert Forger (Ex; Computers)",
+          "description": "You have a database of electronic seals and predesigned templates that allow you forge an official document in a matter of moments. When you attempt a Computers check to create a forgery, as long as you have access to a computer, you can forgo your expertise die to attempt the check as a full action (rather than the normal required time of 1d4 minutes)."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Fast Hack (Ex; Computers)",
+          "description": "When you attempt a Computers check to hack into a computer system, you can forgo rolling your expertise die to instead halve the time it takes to make the attempt (to a minimum of 1 round). At 9th level, if you successfully hack the system, you can also negate a single countermeasure protecting that computer system. You cannot use this talent to negate a countermeasure from the same computer again for 24 hours."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Inspired Medic (Ex; Medicine)",
+          "description": "When you attempt a Medicine check, you can choose not to roll your expertise die until later. After you determine what the check’s result would be, you can choose to either roll your expertise die and add it to the total or forgo the expertise die and reroll the check (see page 243). At 9th level, you can spend 1 Resolve Point to both reroll the check and add the result of your expertise die."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Keen Observer (Ex; Sense Motive)",
+          "description": "Whenever you interact with a creature under a mental effect for at least 1 minute, the GM attempts an automatic secret Sense Motive check for you without your expertise die. On a success, you learn about the mental effect. If you specifically request a Sense Motive check to sense mental effects, you can attempt a Sense Motive check as normal, including your expertise die, in addition to this automatic check."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Menacing Gaze (Ex; Intimidate)",
+          "description": "When you attempt an Intimidate check to demoralize foes, you can forgo your expertise die to attempt to briefly demoralize a small group as a full action. You attempt an Intimidate check against foes within 60 feet, no two of which can be more than 20 feet apart. The DC of this check is equal to the highest DC to demoralize any one of the foes. If you are successful, the targets gain the shaken condition (see page 277) for 1 round (even if your result exceeded the DC by 5 or more). Once you use this ability against a creature, it is immune to this talent for 24 hours."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Rattling Presence (Ex; Intimidate)",
+          "description": "When you attempt an Intimidate check to demoralize an opponent, you can forgo rolling your expertise die to automatically increase the duration of the shaken condition by 1 round on a successful check. At 9th level, you instead increase the duration by 2 rounds on a success when using this talent."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Skilled Linguist (Ex; Culture)",
+          "description": "You can speak and read a number of bonus languages equal to your ranks in Culture. Additionally, when you attempt a Culture check to decipher writing, you can forgo your expertise die to attempt the check as a full action (rather than the normal 1 minute) per approximately 250 words of writing or fewer."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Slick Customer (Ex; Diplomacy)",
+          "description": "When you attempt a Diplomacy check, you can choose not to roll your expertise die until later. After you determine what the check’s result would be, you can choose to either roll your expertise die and add it to the total or forgo the expertise die and reroll the check (see page 243). At 9th level, you can spend 1 Resolve Point to both reroll the check and add the result of your expertise die."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Student of Technology (Ex; Engineering)",
+          "description": "As long as you have the time to do so, you can take 20 (see page 133) on Engineering checks to identify creatures and technology, even if you do not have access to a computer terminal or other means of research. If the creature or technology was created by a group or individual you are familiar with (normally including any major corporation or military), on a successful check you also identify what group created the object identified."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Surgeon (Ex; Medicine)",
+          "description": "You can use Medicine to treat deadly wounds on a patient once each day in addition to the normal allowances for the medical equipment you are using. Because performing this level of advanced medicine is difficult and time consuming, the DC for this additional treatment increases by 5 and the skill check takes 1 hour."
+        },
+        {
+          "feature_id": 18,
+          "parent_id": 0,
+          "level": 3,
+          "name": "Well Informed (Ex; Diplomacy)",
+          "description": "You keep yourself as up to date as possible about the events and major figures of any region you are in. Once you have been in a settlement or region for at least 24 hours, when you attempt a Diplomacy check to gather information, you can forgo your expertise die to attempt the check as a swift action (rather than the normal 1d4 hours)."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Akashic",
+          "description": "You’re linked to the collective knowledge of every sentient species that ever lived that’s held in the Akashic Record, an Astral library of perfect psychic records of every moment in history. You might be an ancient lorekeeper, an inquisitive student of the occult, an intuitive consulting detective, or a secret-hoarding spy."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Empath",
+          "description": "Your connection helps you sense emotions and notice details others can’t. You might be a diplomat, an investigator, a mind- reading bodyguard, a ship’s psychologist, or a psychic con artist."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Healer",
+          "description": "Your connection channels the life force of all things—as well as its counterpart, death. You’re an expert healer, but not necessarily a selfless one. You might be a traveling doctor, a haunted medium, a military medic, or a tyrannical necromancer."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Mindbreaker",
+          "description": "You use your raw will and understanding of the mind’s structure to crush and demoralize your enemies. You might be a special ops assassin, a psychic interrogator, or a righteous military crusader breaking the enemy’s spirit on the battlefield."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Overlord",
+          "description": "You realize that not all connections are symmetrical, and seek to be the dominant force in any situation. You aren’t necessarily evil; perhaps you consider yourself a benevolent philosopher- monarch who takes control for the good of your charges. You might also be a cult leader, a criminal mastermind, or a hypnotist."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Star Shaman",
+          "description": "Your connection channels the energy of the cosmos, its celestial bodies, and the dark voids between them. You might be a brilliant astronomer, a daredevil starpilot, a Drift explorer, a prophetic astrologer, or a would-be transhuman godling."
+        },
+        {
+          "feature_id": 23,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Xenodruid",
+          "description": "You channel the energy inherent in the ecosystems around you, taking inspiration from the endless cycles of the natural world. You might be a corporate biotech researcher, a hermitic shaman of the Green Faith, or one of the legendary Xenowardens."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 1,
+          "name": "Akashic Knowledge (Ex)",
+          "description": "You gain the channel skill ability at 1st level (instead of 2nd level). Each day when you recover your spell slots, you can tap into the Akashic Record, enabling you to choose one Profession skill and add that to your list of associated skills for the channel skill class feature."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 3,
+          "name": "Access Akashic Record (Su)",
+          "description": "You can access the Akashic Record to augment your skills.\nYou can spend 1 Resolve Point to attempt a skill check as if you had ranks in that skill equal to your mystic level."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 6,
+          "name": "Peer into the Future (Su)",
+          "description": "Once per day, you can spend 10 minutes in uninterrupted\nmeditation to receive visions of possible futures. At any point over the next 24 hours, you can declare that you are using the benefit of this ability before rolling one initiative check, saving throw, or skill check. You gain a +4 insight bonus to that check. At 11th level, you can use this ability twice per day, though you can’t use it again until after you’ve used your first bonus."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 9,
+          "name": "Mind Probe (Sp)",
+          "description": "You can use mind probe as a spell-like ability a number of\ntimes per day equal to your mystic level, lasting for 1 round. A creature that successfully saves against your mind probe is immune to further uses of this ability for 24 hours."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 12,
+          "name": "Telepathic Memories (Su)",
+          "description": "You can share memories at will with allies linked by your telepathic bond class feature. As a full action, you or a linked ally can send a memory of up to 1 minute to as many others in the bond as they choose. Sending a relevant memory counts as a successful aid another attempt for a skill check, even if you wouldn’t otherwise be able to use aid another (to a limit of one such memory per skill check)."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 15,
+          "name": "Memory Palace (Su)",
+          "description": "You assemble an extradimensional library to house mental constructs representing your accumulated knowledge. This memory palace has a single shimmering entrance. You can access your memory palace once per day; when you do, the entrance appears within close range. If any creatures or objects that were not part of the memory palace when it was created remain inside it, the entrance remains where it first appeared. Only those you designate can enter the memory palace, and the entrance closes and becomes invisible behind you when you enter. Anyone inside can open the entrance and exit the memory palace at will. The only way to enter and exit the memory palace is via the entrance; even plane shift and similar magic do not access it.\nYou can create any floor plan you desire for your memory palace, up to a number of 10-foot cubes equal to your mystic level. Inside, the atmosphere is clean, fresh, and warm; outside conditions don’t affect the memory palace, nor do conditions inside it pass beyond. There is no furniture other than bookcases, computers, and a few desks and sofas. A number of unseen servants (as per the spell of the same name) equal to half your mystic level serve as librarians. The library keeps the same layout each time you access it, though you can alter its appearance each time you gain a level or by spending 15 minutes concentrating—you don’t need to be inside it to alter it.\nWhen you gain this ability, choose one skill that can be used with the recall knowledge task. Consulting your memory palace gives anyone who studies within—including you—a +4 enhancement bonus to skill checks to recall knowledge of that type, and creatures inside the memory palace can attempt checks of that type untrained. At 16th level, and at each level thereafter, choose another skill that can be used with the recall knowledge task to which your memory palace’s skill bonus applies."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 78,
+          "level": 18,
+          "name": "Glean Spell (Su)",
+          "description": "Once per day, you can delve into the Akashic Record to cast a spell from either the mystic or technomancer spell list as if it were on your list of spells known. The spell consumes a spell slot 1 level higher than the level of the spell."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 1,
+          "name": "Empathy (Su)",
+          "description": "As a full action, you can attempt a Sense Motive check to read the emotions of a particular creature (DC = 20 or 10 + its Bluff modifier, whichever is higher). If you succeed, you learn its general disposition and attitude toward creatures within 30 feet of it, and you gain a +2 circumstance bonus to Bluff, Diplomacy, Intimidate, and Sense Motive checks against that creature for 1 hour. Whether you succeed or fail, after opening your mind to read emotions, you take a –2 penalty to saving throws against mind-affecting effects for 1 minute."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 3,
+          "name": "Greater Mindlink (Su)",
+          "description": "You can use your mindlink ability on the same creature as many times per day as you wish, and the communication can be both ways, though the maximum of 10 minutes of communication per round still applies."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 6,
+          "name": "Emotionsense (Su)",
+          "description": "You can detect and locate creatures within 60 feet that have emotions, as if you had blindsense (emotion); see page 262. A creature can keep its emotions calm to avoid detection by this ability by succeeding at a Bluff check with a DC equal to 10 + your Sense Motive modifier, but a creature under the influence of an emotion effect cannot try to avoid detection. Creatures under the effects of nondetection or similar effects automatically avoid detection by this ability. Unless otherwise stated, constructs and creatures with Intelligence scores of 2 or lower don’t have emotions and can’t be sensed this way."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 9,
+          "name": "Discern Lies (Sp)",
+          "description": "You can use discern lies as a spell-like ability a number of times per day equal to your mystic level, each time targeting a single creature. This effect lasts 1 round. Once a creature successfully saves against this ability, it becomes immune to further uses of this ability for 24 hours."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 12,
+          "name": "Greater Emotionsense (Su)",
+          "description": "Your emotionsense is far more discerning, as if you had blindsight (emotion); see page 262."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 15,
+          "name": "Retrocognition (Sp)",
+          "description": "You can use retrocognition as a spell-like ability at will. When doing so, you take a –2 penalty to saving throws against mind-affecting effects for as long as you concentrate on retrocognition and an equal amount of time afterward. You can spend 1 Resolve Point to negate this penalty."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 79,
+          "level": 18,
+          "name": "Empathic Mastery (Sp)",
+          "description": "You can spend 1 Resolve Point to use psychic surgery as a spell-like ability. If you are incapacitated by an effect that psychic surgery could remove and have at least 1 Resolve Point  remaining, you can spend 1 Resolve Point to use this ability on yourself, even without being able to take any actions."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 1,
+          "name": "Healing Channel (Su)",
+          "description": "You can heal yourself and your allies. You can spend 1 Resolve Point to channel this energy. Healing yourself with channeled energy is a move action, healing an ally you touch is a standard action, and healing all allies within 30 feet is a full action. This energy restores 2d8 Hit Points and increases by 2d8 at 3rd level and every 3 levels thereafter."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 3,
+          "name": "Lifelink (Su)",
+          "description": "At the start of each turn, you can choose an ally within 30 feet who has taken Hit Point damage and transfer her wounds to yourself, dealing an amount of damage up to your mystic level to your Hit Points (bypassing any Stamina Points you may have) and healing the ally’s Hit Points an equal amount. This doesn’t require any action on your part. You can’t prevent or reduce the damage you take from lifelink."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 6,
+          "name": "Healer’s Bond (Sp)",
+          "description": "As a standard action, you can form a bond with up to three allies, allowing you to constantly sense their condition as per the status spell. This bond lasts until dispelled or until you create a new healer’s bond, which immediately ends the previous one. At 11th level, when you gain the telepathic bond class feature, you also gain the effects of status on all creatures linked by your telepathic bond."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 9,
+          "name": "Steal Life (Su)",
+          "description": "As a standard action, you can spend 1 Resolve Point to steal part of a creature’s life force and transfer it to yourself or others. You must touch the target (requiring a successful melee attack against its EAC), which deals 1d6 damage for every 2 mystic levels you have (maximum 10d6). Choose an ally within 30 feet; that ally recovers an amount of Hit Points equal to the damage dealt (to a maximum of the foe’s remaining Hit Points). Alternatively, you can heal yourself instead, but you restore only a number of Hit Points equal to half the damage dealt. If this heals the recipient (you or your ally) up to maximum Hit Points, any excess persists for 1 hour as temporary Hit Points. If your attack misses, you don’t lose the Resolve Point."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 12,
+          "name": "Channel Bond (Su)",
+          "description": "When you use healing channel as a standard action, you can heal an ally linked by your telepathic bond class feature as if you were touching that ally, as long as the ally is within 120 feet. When you use healing channel as a full action, it heals all allies linked by your telepathic bond class feature within 120 feet (as well as all other allies within 30 feet)."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 15,
+          "name": "Channel Life (Su)",
+          "description": "If you use healing channel on a creature that has died within 1 round, you can bring it back to life as per a 5thlevel mystic cure spell."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 80,
+          "level": 18,
+          "name": "Deny Death (Su)",
+          "description": "You are immune to death effects and negative levels. If you would normally die from damage, as long as you have at least 1 Resolve Point remaining, you can immediately spend all of your remaining Resolve Points to instead stay alive. If your Hit Points would have been reduced to 0, you now have 1 Hit Point instead. Once you use this ability, you can’t regain Resolve Points again until you rest for 8 hours, even if you have another means to do so."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 1,
+          "name": "Share Pain (Su)",
+          "description": "Whenever a foe deals damage to you, you can spend 1 Resolve Point as a reaction to shift some of the pain back onto that foe. Unless the foe succeeds at a Will save, reduce the damage you take from the attack by your mystic level (to a maximum of the attack’s damage), and the foe takes an equal amount of damage. This is a mind-affecting pain effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 3,
+          "name": "Backlash (Su)",
+          "description": "Whenever a foe succeeds at a Will save against one of your spells and completely negates the effect, that foe takes 1 nonlethal damage for each mystic level you have. This is a mind-affecting pain effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 6,
+          "name": "Sow Doubt (Su)",
+          "description": "As a standard action, you can spend 1 Resolve Point to create uncertainty in the mind of a foe within 30 feet. You choose whether the target becomes flat-footed, becomes off-target, takes a –2 penalty to saving throws, or takes a –2 penalty to skill checks. The effect lasts for a number of rounds equal to half your mystic level, unless the target succeeds at a Will save to reduce the duration to just 1 round. A creature can be affected only by one sow doubt effect. If you use this ability on the same creature again, the new effect replaces the old effect. This is a mind-affecting effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 9,
+          "name": "Mental Anguish (Su)",
+          "description": "As a standard action, you can tweak the pain centers in the brain of a foe within 60 feet, causing it to suffer intense agony. The target must succeed at a Will save or be nauseated for 1 round. Regardless of the save, the creature becomes immune to this ability for 24 hours. This is a mindaffecting pain effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 12,
+          "name": "Mindbreaking Link (Su)",
+          "description": "Whenever you or an ally linked by your telepathic bond class feature scores a critical hit against a foe, you can spend 1 Resolve Point as a reaction to confuse that foe. The foe must succeed at a Will save or become confused for 1 round. Whether or not it succeeds at this save, the target is affected by your sow doubt ability for 1 round. This is a mind-affecting effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 15,
+          "name": "Mindkiller (Su)",
+          "description": "As a standard action, you can mold the subconscious fear of a foe within 60 feet into a psychic image of the most disturbing creature imaginable to the target. Only the target can see the mindkiller, and if the target succeeds at a Will save to recognize the image as unreal, the mindkiller has no effect. If the target fails this Will save, the mindkiller touches the target, which must then succeed at a Fortitude save or die from fear. On a successful Fortitude save, the target instead takes 3d6 damage. Once a creature succeeds at either save against this ability, it becomes immune to this ability for 24 hours. This is a mind-affecting fear effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 81,
+          "level": 18,
+          "name": "Explode Head (Su)",
+          "description": "You can spend 1 Resolve Point as a standard action to psychically assault the brain of a foe within 60 feet, causing incredible pressure to build in its head. If the target has 20 Hit Points or fewer, its head explodes, instantly killing the target and spreading debris in a 10-foot radius. Each creature in the area must succeed at a Reflex saving throw or take 2d6 slashing damage from the flying debris. A target with more than 20 Hit Points takes 1d6 damage per mystic level you have (maximum 20d6), but can attempt a Fortitude save to take only half damage. If this damage would reduce the target to 0 HP, the target’s head explodes as described above. This ability works only on a creature that has a head and would die from the loss of a head."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 1,
+          "name": "Inexplicable Commands (Su)",
+          "description": "When one of your mind-affecting charm or compulsion spells or spell-like abilities ends, the target loses all memory that it was magically controlled or influenced. That creature still remembers the actions it took, but may be confused by them."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 3,
+          "name": "Forced Amity (Sp)",
+          "description": "You can spend 1 Resolve Point as a standard action to shunt positive emotions and thoughts through your connection, forcing a humanoid creature to become friendly to you for a time. This functions as charm person."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 6,
+          "name": "Echoes of Obedience (Su)",
+          "description": "Even creatures that resist your dominance can’t shake the lingering echoes of your mind. When a creature succeeds at a saving throw against one of your mind-affecting charm or compulsion spells or spell-like abilities and negates the effect, it takes a –1 penalty to AC, attack rolls, and skill checks until the beginning of your next turn. This is a mind-affecting effect."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 9,
+          "name": "Greater Forced Amity (Sp)",
+          "description": "Your forced amity ability functions as charm monster."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 12,
+          "name": "Jealous Overlord (Su)",
+          "description": "When an ally linked by your telepathic bond class feature is subject to mind-affecting effect that issues commands, as a reaction you can issue a countermand allowing the linked ally to act normally. When you do, attempt an opposed Charisma check against the originator of the mind-affecting effect; if you succeed, your ally can act normally."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 15,
+          "name": "Forceful Commands (Su)",
+          "description": "When you use a mind-affecting charm or compulsion spell or spell-like ability against a target benefiting from an active spell that protects against your attack, you automatically become aware of the presence of such defenses, and can spend 1 Resolve Point as part of casting the spell to attempt a caster level check to dispel the highest-level such spell, as if you had cast dispel magic."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 82,
+          "level": 18,
+          "name": "Absolute Control (Su)",
+          "description": "When you issue a command to a dominated creature that would force it to act against its nature, you can spend 1 Resolve Point to deny it a new saving throw against your domination. The dominated creature still won’t carry out an obviously self-destructive order."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 1,
+          "name": "Walk the Void (Su)",
+          "description": "You are immune to the harmful environmental effects of outer space and vacuum. You also gain a fly speed of 20 feet while in space. In addition, whenever you can see the stars, you can determine your precise location. Finally, add Piloting to your list of class skills."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 3,
+          "name": "Starlight Form (Su)",
+          "description": "You can transform yourself into blazing starlight as a standard action. Your body sheds normal light in a 30-foot radius, and you gain the benefits of concealment (20% miss chance). At 7th level, a creature that ends its turn adjacent to your starlight form must succeed at a Fortitude save or be blinded for 1 round. You can maintain your starlight form for a number of minutes per day equal to your mystic level; this duration does not need to be continuous, but it must be used in 1-minute increments. You can forgo the ability's concealment and blinding aspects to instead simply shed light, though this still counts against the ability’s duration for the day."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 6,
+          "name": "Stargazer (Su)",
+          "description": "You can study the stars to gain a bit of good luck. Twice per day, if you are outdoors and can see the stars, you can reroll a failed ability check, attack roll, saving throw, or skill check (see page 243)."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 9,
+          "name": "Starflight (Su)",
+          "description": "While in starlight form, you gain the ability to fly as per the flight spell (spell level 3rd or lower)."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 12,
+          "name": "Starry Bond (Su)",
+          "description": "You can share the good fortune of your stargazer class feature with your allies. Whenever an ally linked by your telepathic bond class feature fails an ability check, attack roll, saving throw, or skill check, you can spend 1 Resolve Point as a reaction to enable your ally to reroll the failed check (see page 243). This ability otherwise functions as the stargazer class feature."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 15,
+          "name": "Meteor Shower (Su)",
+          "description": "You can spend 1 Resolve Point as a full action to call down a rain of meteorites in a 10-foot-radius vertical cylinder, 40 feet high, at a range of up to 250 feet. The meteorites deal 12d6 damage to every creature in the area (Reflex half). Half the damage is bludgeoning damage; the other half is fire damage. If you are outdoors and can see stars, the meteorites instead deal 12d10 damage."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 18,
+          "name": "Interplanetary Teleport (Sp)",
+          "description": "At 18th level, once per day, you can spend 1 Resolve Point as a full action to use interplanetary teleport as a spell-like ability. If you have been to a location in another star system before, you can spend 2 Resolve Points to use interplanetary teleport to travel there, even though it exceeds the spell’s normal range."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 1,
+          "name": "Speak with Animals (Su)",
+          "description": "You can communicate with any creature of the animal type, though this doesn’t make it friendly. If an animal is friendly toward you, it may do you favors. This ability allows you to use Intimidate to bully animals, and you can use any other language-dependent effect against animals."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 3,
+          "name": "Grasping Vines (Su)",
+          "description": "You can spend 1 Resolve Point as a standard action to cause an area within 100 feet to sprout writhing vines in a 20-footradius spread. The target surface must be solid but does not need to be capable of sustaining plants normally. The vines have a reach of 5 feet and attempt to wrap around creatures in the area of effect or those that enter the area; such a creature must succeed at a Reflex save or gain the entangled condition. Creatures that successfully save can move as normal, but those that remain in the area must attempt a new save at the end of your turn each round. Creatures moving into the area must attempt a save immediately; failure ends their movement and they become entangled. An entangled creature can break free as a move action with a successful Acrobatics check or DC 15 Strength check. The vines last for a number of rounds equal to your mystic level, and the entire area is difficult terrain while the effect lasts. At 11th level, the vines can reach 10 feet and sprout thorns that deal 1d6 piercing damage each round to creatures in the area."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 6,
+          "name": "Animal Adaptation (Su)",
+          "description": "As a standard action, you can modify your body. Choose one of the following to gain the noted benefit: elongated legs (increase your land speed by 10 feet), fins and webbed digits (granting you a swim speed equal to half your land speed), suckers on wrists and feet (granting you a climb speed equal to half your land speed), or vertical-slit pupils (granting you darkvision 60 feet). This ability lasts for a number of minutes per day equal to your mystic level; this duration doesn’t need to be continuous, but it must be used in 1-minute increments. Your base form and size are largely unchanged, but some of your body parts are altered. Armor and gear you are wearing adjusts to your  new shape for the duration of this ability. You can have only one of these adaptations active at a time; choosing a new adaptation is a standard action and the new choice replaces the old. At 12th level, the climb and swim speeds granted by your adaptation are equal to your land speed, and you add wings (granting you a fly speed of 30 feet with average maneuverability) to the list of possible adaptations."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 9,
+          "name": "Reactive Resistance (Su)",
+          "description": "The first time each day you would take energy damage, you immediately gain resistance 10 to that energy type for the remainder of the day. (If you are damaged by more than one energy type simultaneously, choose which type you resist.)"
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 12,
+          "name": "Share Resistance (Su)",
+          "description": "As a standard action, you can spend 1 Resolve Point to grant allies linked by your telepathic bond class feature resistance 5 to the same energy type that you can resist through your reactive resistance class feature for 1 minute. You can’t use this ability if your reactive resistance class feature has not yet been activated for the day."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 15,
+          "name": "Plant Transport (Su)",
+          "description": "Once per day as a full action, you can enter any living plant equal to your size or larger and exit from another plant of the same kind in the same solar system, regardless of the distance separating the two. The destination plant does not need to be familiar to you. If you are uncertain of the location of a particular kind of destination plant, you merely designate direction and distance and this ability moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, this ability fails and you are ejected from the entry plant. You cannot travel through plant creatures. You can bring along objects as long as their bulk doesn’t exceed your Strength score. You can also bring up to five willing Medium or smaller creatures (each carrying no more bulk than their Strength scores) with you, provided they are linked to you with joined hands."
+        },
+        {
+          "feature_id": 0,
+          "parent_id": 83,
+          "level": 18,
+          "name": "Guided Rebirth (Su)",
+          "description": "As long as you have at least 1 Resolve Point remaining, you can spend all your remaining Resolve Points as a full action to surround yourself with an organic cocoon. While enclosed in the cocoon, you are considered helpless. Eight hours later, you emerge having changed your type to animal, humanoid (of any subtype), or your original type, gaining superficial physical characteristics as appropriate. This change does not alter your ability scores, Hit Points, Stamina Points, saving throws, skill points, class skills, or proficiencies. Each time you make this transformation, you are cleansed of all poisons and diseases, are restored to full Hit Points and Stamina Points, and heal all ability damage. You must select a type other than your current type every time you make the transformation. You can use this ability once per day. Once you use this ability, you can’t regain Resolve Points until you rest for 8 hours, even if you have another means to do so."
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Daredevil",
+          "description": "You specialize in missions requiring courage and athleticism.\n- Associated Skills: Acrobatics and Athletics. You can attempt an Acrobatics check to make a trick attack.\n- Specialization Exploit: Versatile movement.\n- Terrain Attack (Ex): At 11th level, when you and a foe are both balancing, climbing, flying, or swimming, you automatically succeed at any Bluff check required to make a trick attack against that foe."
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Detective",
+          "description": "Your ability to read people and make deductions helps you ferret out the truth in any situation.\n- Associated Skills: Culture and Sense Motive. You can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading your foe.\n- Specialization Exploit: Glimpse the truth.\n- Detective’s Insight (Ex): At 11th level, your incredible insights help you move investigations forward where mundane inquiries fail. Once per day, you can spend 1 Resolve Point and take 10 minutes pondering a mystery or quandary to gain an enigmatic insight as if you had cast divination (though the result is often presented as a cryptic clue)."
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Explorer",
+          "description": "You’re an expert in scouting out dangerous locations using your knowledge and survival skills.\n- Associated Skills: Culture and Survival. You can attempt a\nSurvival check with a +4 bonus to make a trick attack by using\nyour surroundings to your advantage.\n- Specialization Exploit: Ever vigilant.\n- Into the Unknown (Ex): At 11th level, you gain a +4 bonus to\nCulture and Survival checks. While you’re outside both the Pact Worlds and your home star system (if different), you gain a +2 bonus to initiative checks. At the GM’s discretion, in games centered around a different star system than the Pact Worlds, replace the Pact Worlds with that star system.-"
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Ghost",
+          "description": "You can move from place to place without being noticed.\n- Associated Skills: Acrobatics and Stealth. When you use Stealth to make a trick attack, you gain a +4 bonus to the skill\ncheck.\n- Specialization Exploit: Cloaking field.\n- Phase Shift Escape (Ex): At 11th level, you can move through solid matter by taking your body’s matter out of phase for just a moment. As a full action, you can spend 1 Resolve Point to phase through up to 5 feet of solid matter. If you attempt to phase through something that is too thick, you spend the Resolve Point and take the action but the attempt fails. You cannot phase through force effects such as force fields or the barrier created by wall of force. After using phase shift escape, you can’t use it again until after you’ve taken a full 8-hour rest."
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Hacker",
+          "description": "Whether it’s a computer system or a mechanical device, you can hack it.\n- Associated Skills: Computers and Engineering. You can attempt a Computers check with a +4 bonus to make a trick attack by creating a computerized distraction (you can’t use this option if stripped of all computerized gear in an area with no computers).\n- Specialization Exploit: Elusive hacker.\n- Control Hack (Ex): At 11th level, when you exceed the DC of a Computers or Engineering check to disable a device or computer system by 5 or more, you can instead take control of the device or system. For every 5 by which you exceed the DC, you can typically make the device or system perform one task, at the GM’s discretion. Once the device or system has done what you commanded, you choose whether the device deactivates or returns to normal."
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Spy",
+          "description": "You can steal or adopt new identities as easily as most people change clothes, allowing you to infiltrate nearly any circle.\n- Associated Skills: Bluff and Disguise. When you use Bluff to make a trick attack, you gain a +4 bonus to the skill check.\n- Specialization Exploit: Master of disguise.\n- Fool Detection (Ex): At 11th level, whenever you succeed at a saving throw against a spell, technological device, or ability that would provide information about you (such as detect thoughts), instead of negating the effect, you can provide false information that matches your cover identity. If such an effect has no saving throw, you can attempt a Bluff check opposed by the Sense Motive check of the caster or user, and provide similar false information on a success."
+        },
+        {
+          "feature_id": 34,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Thief",
+          "description": "You specialize in acquisition, from quick swipes to complex heists.\n- Associated Skills: Perception and Sleight of Hand. You can use Sleight of Hand to make a trick attack by concealing your weapons and motions.\n- Specialization Exploit: Holographic distraction.\n- Contingency Plan (Ex): At 11th level, you’ve performed enough heists to realize that things never go exactly as you had planned. When something unexpected happens during a heist or infiltration, you can spend 2 Resolve Points and specify a contingency plan that you had set up in advance for this eventuality, either having the right prop (such as an ID or a computer file, but not a particularly valuable item), having the right information, or having hired a confederate to perform a single task at the right time. You then attempt a skill check. The appropriate skill and the DC are at the GM’s discretion, with a higher DC for a more elaborate or unlikely contingency (see Skill DCs on page 392 for more information on setting skill DCs). If you succeed, you have the item or knowledge, or the confederate performs the task as specified. If you fail, either you don’t have what you need or your plan fails."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Alien Archive (Ex)",
+          "description": "Your vast experience makes identifying new creatures easier for you. Double your operative’s edge bonus to your skill checks when identifying a creature and its abilities. If you successfully identify a creature, you gain a +2 enhancement bonus to your skill check when you make a trick attack against that creature."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Combat Trick (Ex)",
+          "description": "You gain a bonus combat feat. You must meet all of that feat’s prerequisites."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Field Treatment (Ex)",
+          "description": "You can take 1 minute to tend your wounds and spend 1 Resolve Point to recover a number of Hit Points equal to three times your operative level."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Holographic Clone (Ex)",
+          "description": "You can create holographic duplicates or psychic projections of yourself that conceal your true location. Once per day as a standard action, you can create 1d4 images of yourself that last for 1 minute per operative level. This ability otherwise functions as mirror image. You can use this exploit an additional time per day at 6th level, and again at 10th level."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Inoculation (Ex)",
+          "description": "You’ve trained to resist various chemical and biological weapons, toxins, and pathogens you come across in the course of your missions. You add your operative’s edge bonus to Fortitude saves against poison and disease."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Jack of All Trades (Ex)",
+          "description": "You’ve learned how to handle any situation. You can use all skills untrained, and you double your operative’s edge bonus when using a skill in which you have no ranks."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Nightvision (Ex)",
+          "description": "You can see in the dark as if you had low-light vision and darkvision with a range of 60 feet."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Quick Disguise (Ex)",
+          "description": "Once per day as a standard action, you can quickly change your appearance. This functions as disguise self and lasts for 1 minute per operative level. You can use this exploit an additional time per day at 6th level, and again at 10th level."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Uncanny Mobility (Ex)",
+          "description": "When you make a trick attack, if you choose the target of your attack before you move, your movement doesn’t provoke attacks of opportunity from that target. When you use your standard action to move, you can choose one creature; you don’t provoke attacks of opportunity from that creature for this movement."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Uncanny Pilot (Ex)",
+          "description": "When you attack while you’re driving a vehicle, you halve the vehicle’s penalty to your attack roll (to a minimum of no penalty if the vehicle normally imposes a –1 penalty). When you’re in a chase, you gain a +2 bonus to skill checks you attempt when taking the evade or trick pilot actions."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Bleeding Shot (Ex)",
+          "description": "For your debilitating trick, you can afflict your target with an amount of bleed damage equal to your operative level."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Certainty (Ex)",
+          "description": "You can spend 1 Resolve Point as a reaction to reroll one of your specialization’s associated skill checks (see page 243)."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Debilitating Sniper (Ex)",
+          "description": "You can use trick attack with sniper weapons. You do not add trick attack damage to your attack, but the target is still flat- footed, and you can use debilitating tricks."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Enhanced Senses (Ex)",
+          "description": "You can sense your surroundings without needing to see them. You gain blindsense with a range of 60 feet. You must have darkvision and low-light vision, or the nightvision exploit, to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Hampering Shot (Ex)",
+          "description": "For your debilitating trick, you can reduce your target’s speeds by half and prevent it from using the guarded step action until the beginning of your next turn."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Improved Quick Movement (Ex)",
+          "description": "You can move even faster than other operatives. You gain double the benefits of your quick movement ability, up to a maximum additional increase of +20 feet. You must have quick movement to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Interfering Shot (Ex)",
+          "description": "For your debilitating trick, you can prevent your target from using reactions (see page 244) until the end of your next turn."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Mentalist’s Bane (Ex)",
+          "description": "If you fail your Will saving throw against a mind-affecting effect with a duration of 1 round or more, you can attempt another saving throw against the effect 1 round later at the same DC. You get only one extra chance to save per effect.\nIf you succeed at a saving throw against a charm or compulsion effect, you can prevent the effect’s originator from knowing you succeeded. You gain basic knowledge of what the mental effect would have made you do or feel, and you can attempt a Bluff check to pretend you are under that effect. If the mental effect would provide a link between you and the originator (like the dominate person spell), you can choose to allow the link without the control."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Speed Hacker (Ex)",
+          "description": "You can disable mechanical devices with Engineering and computer systems with Computers in half the usual time. In the rare cases when disabling a system or device would normally be a full action, you can do it as a standard action, and if it would normally be a standard action, you can do it as a move action."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Staggering Shot (Ex)",
+          "description": "For your debilitating trick, you can attempt to stagger your target. The target must succeed at a Fortitude save or be staggered until the beginning of your next turn. Once you’ve used this ability to attempt to stagger a creature, that creature is immune to your staggering shot for 24 hours."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Stalwart (Ex)",
+          "description": "If you succeed at a Fortitude save against an effect that normally requires multiples successful saves to cure (such as a disease or poison), that effect immediately ends and is cured with a single successful save."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Sure-Footed (Ex)",
+          "description": "You move at your full speed when moving over difficult terrain, and without penalty when using Acrobatics or Stealth at your full speed."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 6,
+          "name": "Uncanny Shooter (Ex)",
+          "description": "Your ranged attacks with small arms do not provoke attacks of opportunity."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Cloaking Field (Ex)",
+          "description": "You can bend light around yourself and muffle any minor sounds you make, allowing you to nearly vanish when not moving. Even when you move, you appear only as an outline with blurry features. This cloaking field doesn’t make you invisible, but it does make it easier to sneak around. Activating the cloaking field is a move action. While the cloaking field is active, you can use Stealth to hide, even while being directly observed and with no place to hide. Attacking doesn’t end the cloaking field, but it does end that particular attempt to hide. If you remain perfectly still for at least 1 round, you gain a +10 bonus to Stealth checks (which doesn’t stack with invisibility) until you move.\nYour cloaking field lasts for up to 10 rounds before it becomes inactive. While inactive, the cloaking field recharges automatically at the rate of 1 round of cloaking per minute."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Deactivating Shot (Su)",
+          "description": "For your debilitating trick, you can attempt to temporarily suppress one magic item or deactivate one weapon, piece of equipment, or armor upgrade worn or carried by the target. Roll 1d20 + your operative level; the DC is equal to 10 + the item level. If you succeed, you deactivate the device (or suppress the item’s magical properties) until the beginning of your next turn. The device’s owner can spend a move action and attempt an Engineering check (for technological devices) or a Mysticism check (for magic items) against your operative exploit DC to try to reactivate the device. You can instead use this debilitating trick to temporarily deactivate a construct that has either the magical subtype (such as a golem) or the technological subtype (such as a robot). You don’t need to attempt a check, but the creature can attempt a Fortitude save to negate the debilitating effect. If it fails, it’s stunned until the beginning of your next turn. Once you’ve used this ability to attempt to deactivate a construct, that creature is immune to your deactivating shot for 24 hours."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Elusive Hacker (Ex)",
+          "description": "Your hacking skills make your code incredibly difficult for countermeasures to pin down. Whenever you would trigger a system’s countermeasure while hacking the system, there is a 50% chance that you manage to elude the countermeasure and it doesn’t trigger. You still haven’t disarmed the countermeasure, and it might trigger in the future."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Ever Vigilant (Ex)",
+          "description": "You’ve been on enough solo missions to know that you can’t let your guard down, even while sleeping. You take no penalties to Perception checks for being asleep, though you still can’t succeed at purely visual Perception checks while asleep. You can always act on the surprise round, though if you choose to do so when you would otherwise be surprised, you use your initiative result or the initiative result of the first creature that would have surprised you – 1, whichever is lower."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Glimpse the Truth (Ex)",
+          "description": "By picking up on subtle clues and hidden traces in your immediate surroundings, you can see things as they really are. As a full action, you can spend 1 Resolve Point to gain the effects of true seeing for 1 round with a range of 60 feet."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Holographic Distraction (Ex)",
+          "description": "As a standard action, you can spend 1 Resolve Point to create a single holographic duplicate or psychic projection of yourself that moves away from you for 1 round per operative level. The double climbs walls, jumps across pits, or simply passes through obstacles, moving at twice your speed in one direction indicated by you when the ability is activated. Its course cannot be changed. Those who interact with the double can attempt a Will save to recognize that it is not real. You must have the holographic clone exploit to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Improved Evasion (Ex)",
+          "description": "When you fail a Reflex save against an effect that has a partial effect on a successful save, you take the partial effect instead of the full effect. You must have evasion to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Improved Uncanny Mobility (Ex)",
+          "description": "When you use the trick attack action or take a standard action to move up to your speed, your movement doesn’t provoke attacks of opportunity. You still provoke attacks of opportunity normally when making ranged attacks or casting spells. You must have the uncanny mobility exploit to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Master of Disguise (Ex)",
+          "description": "You can take on the appearances of other creatures and even specific individuals. This functions as the quick disguise exploit, but the duration increases to 10 minutes per operative level. Alternatively, for 1 minute per operative level, you can take on the appearance of a specific individual that you have seen before. If you have heard the individual talk and can speak her language, you can also modulate your speech to match hers. This disguise is so convincing that creatures familiar with the individual must succeed at a Will saving throw before they can attempt a Perception check to pierce the disguise. You must have the quick disguise exploit to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Stunning Shot (Ex)",
+          "description": "For your debilitating trick, you can try to stun your target. The target must succeed at a Fortitude save or be stunned until the start of your next turn. Once you’ve used this ability to try to stun a creature, it’s immune to your stunning shot for 24 hours. You must have the staggering shot exploit to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 10,
+          "name": "Versatile Movement (Ex)",
+          "description": "You gain a climb speed and a swim speed equal to your land speed. This speed is not increased by the quick movement class feature or improved quick movement exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Efficient Cloaking Field (Ex)",
+          "description": "Your cloaking field lasts for up to 100 rounds (10 minutes), and it recharges at the rate of 2 rounds of cloaking per minute while inactive. You can spend 1 Resolve Point as a move action to recharge 20 rounds immediately, and you can do this even while the cloaking field is active. You must have the cloaking field exploit to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Knockout Shot (Ex)",
+          "description": "For your debilitating trick, you can attempt to knock the target out in one blow. The target must succeed at a Fortitude save or fall unconscious for 1 minute. Once you’ve used this ability to attempt to knock a creature out, that creature is immune to your knockout shot for 24 hours. You must have the staggering shot and stunning shot exploits to learn this exploit."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Multiattack Mastery (Ex)",
+          "description": "When you use triple attack or quad attack to attack the same target with all of your attacks, after your full attack is complete, if at least two of your attacks hit, you can apply a debilitating trick to the target."
+        },
+        {
+          "feature_id": 37,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Uncanny Senses (Ex)",
+          "description": "Your enhanced senses grow even more discerning. Your blindsense becomes blindsight with a range of 60 feet. If you have darkvision, its range increases by 30 feet. You must have the enhanced senses exploit to learn this exploit."
+        },
+        {
+          "feature_id": 47,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Solar Armor",
+          "description": "You can form your solar mote into a suit of armor made out of stellar energy that outlines your body. This armor appears to be made out of glowing light or solid darkness, as determined by the appearance of your solar manifestation, but it can take whatever general shape you choose, whether glowing armored plates of solidified stellar energy, a form-fitting suit of crackling energy, or an aura of stellar plasma. Your solar armor’s general design has no impact on its function and doesn’t give the armor any special abilities. Once you’ve selected the general design, you can’t change it until you gain a new solarian level.\nYour solar armor grants you a +1 enhancement bonus to both your Kinetic Armor Class and your Energy Armor Class. This bonus increases to +2 at 10th level. It is compatible with light armor, but it gives you no benefit if you’re wearing heavy armor. At 5th level, you also gain energy resistance 5 while your solar armor is active. You can choose either cold resistance or fire resistance when you activate the armor, and can switch energy types as a move action. This energy resistance increases by 5 at 10th level and every 5 levels thereafter.\nForming or dismissing solar armor is a move action."
+        },
+        {
+          "feature_id": 47,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Solar Weapon",
+          "description": "You can seize your solar mote in one hand to form a melee weapon out of stellar energy. This weapon appears to be made out of glowing light or solid darkness, as determined by the appearance of your solar manifestation, but it can be whatever general shape you choose. Normal melee weapons like axes, swords, and spears are most common, but other shapes, such as a large rune of stellar energy, a mass of writhing energy tendrils, or an energized fist that fits over your own hand, are possible as well. Your solar weapon’s general design has no impact on its function, and doesn’t give the weapon any special abilities such as reach. Once you’ve selected the general design, you can’t change it until you gain a new solarian level.\nYour solar weapon functions as a one-handed kinetic advanced melee weapon, and you’re automatically proficient with it. At 1st level, choose whether your solar weapon deals bludgeoning, piercing, or slashing damage. You can change the damage type each time you gain a new solarian level. Your solar weapon deals damage equal to 1d6 + your Strength modifier. This damage increases by 1d6 at 6th level, 9th level, 12th level, and every level thereafter. Solarian weapon crystals (see page 170) can increase your solar weapon’s damage.\nForming or dismissing a solar weapon is a move action that takes the same amount of effort as drawing or sheathing a weapon (and can be combined with a move as a single move action or used with the Quick Draw feat). Your solar weapon is automatically dismissed if it ever leaves your hand."
+        },
+        {
+          "feature_id": 48,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Graviton Mode",
+          "description": "When you enter graviton mode, you gain 1 graviton attunement point and become graviton-attuned. Some of your stellar revelations are graviton powers and get stronger if you’re graviton-attuned. While graviton-attuned, you gain a +1 insight bonus to Reflex saves. This bonus increases by 1 for every 9 solarian levels you have."
+        },
+        {
+          "feature_id": 48,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Photon Mode",
+          "description": "When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers). This bonus increases by 1 for every 6 solarian levels you have."
+        },
+        {
+          "feature_id": 48,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Unattuned",
+          "description": "While unattuned, you gain no attunement points and you are neither photon-attuned nor graviton-attuned. You gain no benefits while unattuned."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 1,
+          "name": "Black Hole (Su)",
+          "description": "When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Fortitude save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement. After you use this revelation, you immediately become unattuned. Black hole functions as a zenith revelation for the purposes of abilities that reference them."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 1,
+          "name": "Supernova (Su)",
+          "description": "When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a Reflex save takes half damage. At 9th level, you can increase the radius to 15 feet, and at 17th level, you can increase the radius to 20 feet. After you use this revelation, you immediately become unattuned. Supernova functions as a zenith revelation for the purposes of abilities that reference them."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 2,
+          "name": "Dark Matter (Su)",
+          "description": "As a move action, you can draw on the properties of dark matter to increase your density, allowing you to resist physical damage. You gain damage reduction 1/—. This increases to DR 2/— at 6th level and increases by 1 again every 3 solarian levels thereafter. This benefit lasts for 1 round or until you leave graviton mode.\nWhen you are attuned or fully attuned, your DR from dark matter is equal to half your solarian level."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 2,
+          "name": "Flare (Su)",
+          "description": "As a move action, you can shed light in a 30-foot radius for 1 minute. You choose dim, normal, or bright light each time you activate this revelation. As a standard action, you can create a flash of brilliant light, forcing one creature within 30 feet to succeed at a Reflex save or be blinded for 1 round. Once you’ve targeted a creature with flare, you can’t target it with this revelation again for 10 minutes. Blind or sightless creatures are not affected by this use of this revelation.\nWhen you create a flash of light as a standard action and you are attuned or fully attuned, you can instead choose to make all enemies within range dazzled for 1 round (no save)."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 2,
+          "name": "Gravity Anchor (Su)",
+          "description": "As a move action, you can form a gravitational bond between yourself and either the surface you’re standing on or the objects you are holding. This grants you a +4 bonus to your AC against bull rush, reposition, and trip combat maneuvers if you choose the surface underfoot, or against disarm combat maneuvers if you choose objects. The bonus lasts for 1 round or until you leave graviton mode. You can have only one gravity anchor active at a time.\nWhen you are attuned or fully attuned, you can activate this revelation as a reaction when targeted by a bull rush, disarm, reposition, or trip combat maneuver, in which case it defends against only that attack."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 2,
+          "name": "Gravity Boost (Su)",
+          "description": "You can increase or reduce the gravitational attraction between yourself and the terrain around you. You can add a bonus equal to one-third your solarian level (minimum +1) to Athletics checks to climb, jump, or swim as part of the action you take to attempt the skill check. In addition, as a reaction when you are falling, you can reduce the falling damage you take by half. At 6th level, you can move along vertical surfaces and even upside down along ceilings for 1 round. This functions as spider climb, but it leaves your hands free and you can also run. You must end your movement on a surface that can support you normally. If you end your movement while you are standing on a vertical surface or ceiling, you fall unless you succeed at an Athletics check to climb to remain in position.\nWhen you are attuned or fully attuned, the bonus you gain from this revelation to checks to climb, jump, or swim doubles."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 2,
+          "name": "Gravity Hold (Su)",
+          "description": "This revelation allows you to move objects at a distance as per psychokinetic hand (see page 370).\nWhen you are attuned or fully attuned, you can use the psychokinetic hand ability of your gravity hold to immobilize, lift, or move a Medium or smaller creature. The creature can attempt a Fortitude save to negate the effect. While under this effect, the target creature cannot move, but can take any other normal actions. This ability follows all of the restrictions of the spell other than the weight limit, but you can’t lift a creature higher than 5 feet off the ground. When you spend a standard action concentrating to maintain the gravity hold, the target can attempt a new save to end the effect. Once a creature successfully saves against this ability, it becomes immune to further uses of this revelation for 24 hours."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 2,
+          "name": "Plasma Sheath (Su)",
+          "description": "As a move action, you can cause all of your melee attacks to deal fire damage instead of their normal damage type. (The attacks are still made against the target’s EAC or KAC as normal for the weapon.) This benefit lasts for 1 round or until you leave photon mode.\nWhen you are attuned or fully attuned, your attacks with plasma sheath deal additional fire damage equal to half your level."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 2,
+          "name": "Radiation (Su)",
+          "description": "As a standard action, you can emit an aura of low-level radiation. Creatures within 5 feet of you must succeed at a Fortitude save or be sickened. A sickened creature recovers as soon as it moves out of your aura, and a creature that succeeds at its saving throw is immune to your radiation for 24 hours. This is a poison effect (see page 415). The radiation lasts for 1 round or until you leave photon mode.\nWhen you are attuned or fully attuned, the size of your aura increases to 10 feet."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 2,
+          "name": "Stellar Rush (Su)",
+          "description": "As a standard action, you can wreathe yourself in stellar fire and make a charge without the penalties (see page 248). \nWhen you are attuned or fully attuned, you can substitute a bull rush for the melee attack at the end of the charge. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Reflex half). This damage increases by 1d6 at 6th level and every 2 levels thereafter."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 6,
+          "name": "Astrologic Sense (Su)",
+          "description": "You can sense the movement of all objects influencing you to gain insight into upcoming events. Once per day as a full action, you can try to determine whether a particular action of yours will bring good or bad results for you in the immediate future. This functions as augury (see page 340) with your effective caster level equal to your solarian level. You can spend 1 Resolve Point to use this revelation again on the same day, but you still can’t use it more than once per hour.\nWhen you are attuned or fully attuned, you can see 1 hour into the future (instead of half an hour as is normal for augury) when you use this revelation."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 6,
+          "name": "Blazing Orbit (Su)",
+          "description": "As a move action, you can move up to your speed, gaining concealment against any attack made against you during the move, and you can leave a trail of flames in every square you pass through. The flames last for 1 round and deal 2d6 fire damage to anyone who moves into them. You can’t move through another creature’s space during this movement. If you use blazing orbit again, any flames you previously created with it go out. The damage from the flames increases by 1d6 at 8th level and every 2 levels thereafter.\nWhen you are attuned or fully attuned, any creature damaged by the flames also gains the burning condition (1d6 fire damage; see page 273)."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 6,
+          "name": "Corona (Su)",
+          "description": "As a standard action, you can surround your body with an envelope of fiery plasma. You gain cold resistance 10, and any adjacent creature that hits you with a natural weapon or a melee weapon takes 2d6 fire damage. The corona lasts for 1 round or until you leave photon mode. At 12th level, the damage increases to 3d6 and the cold resistance increases to 15. At 18th level, the damage increases to 4d6 and the cold resistance increases to 20.\nWhen you are attuned or fully attuned, any creature that starts its turn adjacent to you while your corona is in effect takes fire damage equal to half your solarian level."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 6,
+          "name": "Crush (Su)",
+          "description": "As a standard action, you can increase the effects of gravity on the internal organs or workings of a target within 30 feet, causing it to have difficulty maintaining its normal functionality. The target must succeed at a Fortitude save or become staggered for 1 round. This revelation also affects constructs. You can maintain this effect as a move action each round, but the target can attempt a new saving throw each round to end the effect. Once a creature succeeds at this save or the effect ends, you can’t target that creature with crush again for 24 hours.\nWhen you are attuned or fully attuned, you can spend 1 Resolve Point to also stun the target for 1 round. Maintaining crush on subsequent rounds extends the staggered effect, but not the stunned effect."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 6,
+          "name": "Defy Gravity (Su)",
+          "description": "As a move action, you can fly up to your speed. You must end this movement on solid ground or you fall. At 12th level or higher, you don’t have to land if you immediately follow your flight with another move action to use defy gravity. On your last move action of the turn, you still have to land or fall.\nWhen you are attuned or fully attuned, your fly speed from this revelation increases by 10 feet."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 6,
+          "name": "Glow of Life (Su)",
+          "description": "As a move action, you can spend 1 Resolve Point to recover a number of Hit Points equal to twice your solarian level. Once you use this revelation, you can’t use it again until the next time you regain Stamina Points after a 10-minute rest.\nWhen you are attuned or fully attuned, increase the amount you heal with this revelation to three times your solarian level."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 6,
+          "name": "Gravity Surge (Su)",
+          "description": "As a full action, you can perform a disarm or trip combat maneuver against a target within 30 feet. Use your Charisma modifier on your attack roll instead of your Strength modifier, and you gain a +4 bonus to this attack roll that doesn’t stack with the bonus from the Improved Combat Maneuver feat.\nWhen you are attuned or fully attuned, if you disarm a target with gravity surge and have a hand free, the dropped item  ies toward you and you can snatch it from the air. If you trip a target with gravity surge, you can pull the target up to 10 feet closer to you."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 6,
+          "name": "Hypnotic Glow (Su)",
+          "description": "As a standard action, you can convince one living creature that you are to be trusted. This functions as charm person (see page 342), but with a duration of 1 round per solarian level you have. When the effect ends, if you are out of line of sight and the target is not engaged in an activity it wouldn’t have begun without being charmed, the target does not realize it was charmed or has acted unusually unless someone else points it out. You can’t use this revelation again while you currently have a creature charmed via this ability, and once you’ve attempted to charm a creature, whether or not the attempt was successful, you can’t charm the same creature again for 24 hours. Your influence over the creature ends once the duration has expired, and at that time the target likely ceases doing anything you’ve requested of it. At 9th level, hypnotic glow functions as charm monster (see page 342).\nWhen you are attuned or fully attuned and you successfully charm a creature using this ability, you can also command it to approach, flee, or halt on its next turn, as per the command spell (no save; see page 343)."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 6,
+          "name": "Reflection (Su)",
+          "description": "You can reflect ranged attacks back at your enemies. If you took the total defense action on your last turn, or if you were fighting defensively and spend 1 Resolve Point, as a reaction you can redirect a ranged attack that misses you. Select a new target within 30 feet and make a ranged attack roll with a –4 penalty. If your attack hits, the new target is damaged as if it had been the intended target of the original ranged attack.\nWhen you are attuned or fully attuned, you don't take a –4 penalty to your redirected attack roll."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 10,
+          "name": "Soul Furnace (Su)",
+          "description": "You can stoke the internal energy of your entire physiology, allowing you to boost your life processes. As a move action, you can spend 1 Resolve Point. If you are suffering from an affliction (a curse, disease, drug or poison), you can immediately attempt an additional saving throw at the affliction’s normal save DC. If you succeed at this saving throw, the affliction ends (regardless of how many successful saving throws it normally takes to end the affliction). Once you have used this revelation, you can’t use it again until the next time you regain Stamina Points after a 10-minute rest.\nWhen you are attuned or fully attuned, you can also use this revelation to end any one of the following conditions you have: bleeding, blinded, burning, cowering, dazzled, exhausted, fatigued, frightened, panicked, shaken, or sickened."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 10,
+          "name": "Stealth Warp (Su)",
+          "description": "You can bend light, sound, and even vibrations around your body, making you harder to notice. As a move action, you can grant yourself a +4 bonus to Stealth checks. This lasts for 1 round or until you leave graviton mode.\nWhen you are attuned or fully attuned, you can use this revelation to reduce your sensory output so much that you can attempt a Stealth check even when you’re directly observed and lack cover or a distraction. You are not invisible, simply difficult to see clearly, and if a creature was observing you prior to your Stealth check, it remains aware of your location until you successfully reach cover or concealment. Your stealth warp ends if you make an attack or cause another creature to attempt a saving throw, or at the beginning of your next turn unless you immediately take another move action to use this revelation."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 14,
+          "name": "Gravity Shield (Su)",
+          "description": "As a move action, you can create a minor shield of compressed gravity waves, granting you a +1 circumstance bonus to your AC. The shield lasts for 1 round or until you leave graviton mode.\nWhen you are attuned or fully attuned, as a move action, you can create a disk of massive gravitational energies that is capable of deflecting incoming attacks. Choose one edge of your space. The shield extends along three continuous edges in a straight line centered on the chosen edge. The shield provides cover against attacks coming from its far side, but not against attacks originating from the side you’re on. If you move, you can reposition your shield as part of your move action, moving it to a different edge of your space. You must use one of your hands to direct and maintain an active gravity shield. You cannot use this version of the gravity shield at the same time you use this revelation to gain a circumstance bonus to your AC. This gravity shield also lasts 1 round or until you leave graviton mode."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 14,
+          "name": "Sunbolt (Su)",
+          "description": "As a standard action, you can fire a bolt of concentrated solar energy at one target within long range (400 feet + 40 feet per solarian level you have) as a ranged attack targeting the foe’s EAC. If you hit, you deal 9d6 fire damage. If you have a solarian crystal (see Solarian Weapon Crystals on page 170) that changes the type of damage dealt by a solar weapon, you can use it to change the type of damage you deal with your sunbolt. Once you have used this revelation, you can’t use it again until the next time you regain Stamina Points after a 10-minute rest.\nWhen you are attuned or fully attuned, you gain a +2 bonus to your ranged attack roll to use this revelation."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 181,
+          "level": 16,
+          "name": "Ultimate Graviton (Su)",
+          "description": "As your ability to manipulate powers of gravity expands, the range of any graviton revelation (but not zenith revelation) you have with a range doubles. Any graviton revelation (but not zenith revelation) you have that targets a single creature can now simultaneously target two creatures, who must be within 20 feet of each other. You also increase the power of any of the following gravity revelations you have.\nDefy Gravity: Your fly speed increases by 20 feet.\nGravity Anchor: As a move action, you can gain both types of gravity anchor simultaneously.\nGravity Boost: Your bonus applies to all Acrobatics checks, and you take no damage from any fall.\nReflection: If you successfully redirect an attack as a reaction, you can continue to reflect additional attacks until the beginning of your next turn. You have a cumulative –2 penalty to your redirect attack roll on each reflection attempt after the first. If any reflected attack misses, you can’t make further redirect attempts until you use this revelation again."
+        },
+        {
+          "feature_id": 49,
+          "parent_id": 182,
+          "level": 16,
+          "name": "Ultimate Photon (Su)",
+          "description": "Your ability to manipulate powers of light and energy expand greatly. The radius of any photon revelation (but not zenith revelation) you have with a radius expands by 10 feet. Any photon revelation (but not zenith revelation) that lasts for 1 round or until you leave photon mode now lasts for 1d4 rounds if you are not in photon mode. You also increase the power of any of the following photon revelations you have.\nAstrologic Sense: You can see twice as far into the future as normal.\nGlow of Life: You can use this revelation as a swift action, rather than a move action.\nHypnotic Glow: The charm’s duration doubles.\nStellar Rush: You gain a +2 bonus to your EAC until the beginning of your next turn."
+        },
+        {
+          "feature_id": 53,
+          "parent_id": 0,
+          "level": 9,
+          "name": "Miniature Star (Su)",
+          "description": "When you’re fully photon-attuned, you can create a simulacrum of a star as a standard action. The star is a 10-foot-radius sphere that fills your square (or one square of your space, if you’re larger than Medium) and all squares within 5 feet of that space. Any creature that starts its turn in the same space as the star takes 1d6 fire damage for every 2 solarian levels you have, and any creature that starts its turn outside the star but within 5 feet of it takes half that damage. At 17th level, you can create your star simulacrum as a 15-foot-radius sphere that affects your square and all squares within 10 feet of that space (a total of 21 squares).\nCreatures can move through the star, but it exerts a gravitational pull, and any creature inside it or within 5 feet of it must spend twice as much movement for each square of movement that takes it away from the center of the star. The star remains for 1d4+1 rounds, and stays in place even if you later move. You are immune to all effects of your own miniature star."
+        },
+        {
+          "feature_id": 53,
+          "parent_id": 0,
+          "level": 9,
+          "name": "Ray of Light (Su)",
+          "description": "When you’re fully photon-attuned, as a move action, you can transform yourself into a ray of light and move at light speed to any space you can see within long range. Any barrier that would block, reflect, or scatter light prevents you from moving through it. No creature can use a reaction to interfere with your movement or make attacks of opportunity against you unless it’s capable of reacting faster than the speed of light. At 17th level, you can touch one willing or unconscious creature to convert it to light and bring it with you as part of the same action."
+        },
+        {
+          "feature_id": 53,
+          "parent_id": 0,
+          "level": 9,
+          "name": "Solar Acceleration (Su)",
+          "description": "When you’re fully photon-attuned, you can make a full attack as a standard action. In addition, you and up to six allies within 30 feet are affected by haste (see page 358) for 1 minute after you use this revelation. At 17th level, the extra speed from the haste effect increases to 60 feet (to a maximum of three times the creature’s normal speed)."
+        },
+        {
+          "feature_id": 53,
+          "parent_id": 0,
+          "level": 9,
+          "name": "Starquake (Su)",
+          "description": "When you’re fully graviton-attuned, you can create a violent ripple of movement to knock down your foes. As a move action, you can move up to your speed along the ground without provoking attacks of opportunity. Each creature you are adjacent to at any point during that movement takes 1d8 bludgeoning damage and must succeed at a Reflex save or be knocked prone. The affected creatures don’t need to be standing on solid ground to fall prone, and any that were in the air (but still adjacent to you) fall to the ground on a failed save. The damage increases by 1d8 for every 3 solarian levels you have beyond 7th. At 17th level, you can move up to twice your speed along the ground with this revelation."
+        },
+        {
+          "feature_id": 53,
+          "parent_id": 0,
+          "level": 9,
+          "name": "Time Dilation (Su)",
+          "description": "When you’re fully graviton-attuned, you can make time pass more slowly for your enemies. As a standard action, you can project a gravitational wave in a 30-foot cone. You choose which creatures in the cone are affected and which ones aren’t. Each target must succeed at a Fortitude save or by affected by slow (see page 377) for a number of rounds equal to your solarian level. At 17th level, even targets that succeed at their saving throws are affected by slow for 1 round."
+        },
+        {
+          "feature_id": 53,
+          "parent_id": 0,
+          "level": 9,
+          "name": "Wormholes (Su)",
+          "description": "When you’re fully graviton-attuned, you can create two linked wormholes as a standard action. One wormhole must be adjacent to you, and the other appears anywhere in line of sight within medium range (100 feet + 10 feet per solarian level). Each wormhole is 5 feet across and appears at an intersection between two squares. You and any Large or smaller creatures you mentally designate (you can designate “all creatures,” “all lashuntas,” or similar categories) can travel between the wormholes. This is considered extradimensional travel. Entering a wormhole instantly transports a creature to a square adjacent to the other wormhole’s intersection, where the creature can continue its movement. The wormholes remain for 1 round for every 2 solarian levels you have. At 17th level, you can create three wormholes using this ability, and upon entering the wormhole, a creature can decide which of the other two wormholes to exit."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Arcane Assailant",
+          "description": "The arcane assailant fighting style supplements its combat effectiveness with magic powers, drawing on traditions of warrior-wizards dating back to well before the Gap. This allows you to use magic runes to augment your weapons and call on legendary powers, giving you access to arcane options even when you don’t have a magic weapon in your possession."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 215,
+          "level": 1,
+          "name": "Rune of the Eldritch Knight (Su)",
+          "description": "You can imbue a weapon with a magic sigil, the rune of the eldritch knight, allowing the weapon to act as a magic weapon for the purposes of bypassing DR and affecting incorporeal creatures. This takes 10 minutes, and you can imbue only a single weapon at a time. If you imbue a new weapon with the rune of the eldritch knight, any previously imbued weapon loses this benefit. When calculating the Hit Points and hardness of a weapon imbued with the rune of the eldritch knight, treat its item level as 5 higher."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 215,
+          "level": 5,
+          "name": "Secret of the Magi (Su)",
+          "description": "When you imbue a weapon with the rune of the eldritch knight, in addition to its normal benefits, the rune grants the weapon one of the following weapon fusions of your choice: ethereal, flaming, frost, merciful, or shock. The weapon can’t gain a fusion it already has, and this bonus fusion doesn’t count toward the maximum total level of fusions the weapon can have at once. The bonus fusion ends when the weapon ceases to be imbued with the rune of the eldritch knight. For more information on fusions, see page 191."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 215,
+          "level": 9,
+          "name": "Power of Legend (Su)",
+          "description": "You can call on the link between you and the legendary heroes who wielded powerful magic weapons eons ago to overcome adversity. As a move action when wielding a magic weapon or a weapon imbued with the rune of the eldritch knight, you can spend 1 Resolve Point to end one of the following conditions affecting you: bleeding, burning, confused, exhausted, fatigued, flat-footed, off-target, shaken, or sickened. Alternatively, you can spend 1 Resolve Point to change the cowering condition to the frightened condition or change the frightened condition to the shaken condition. In this case, the new condition lasts for the same duration the original condition would have and can’t be further affected by this ability."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 215,
+          "level": 13,
+          "name": "Secret of the Archmagi (Su)",
+          "description": "You can imbue two weapons with the rune of the eldritch knight. If you attempt to imbue a third weapon, the weapon infused first loses its rune and all benefits. In addition to the normal benefits, the runes grant the weapons one or more of the following weapon fusions (see page 191) of your choice: bane, corrosive, ethereal, flaming, frost, holy, merciful, shock, thundering, or unholy. You can grant no more than 10 total levels’ worth of fusions between the two weapons, and the bane fusion counts as a 10th-level fusion for this purpose."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 215,
+          "level": 17,
+          "name": "Arcane Attack (Su)",
+          "description": "As a standard action, you can spend 1 Resolve Point to use a weapon imbued with the rune of the eldritch knight to make an attack that strikes true. This attack ignores all cover and concealment, including total concealment (though you must at least be aware of a creature’s presence to target it with this attack). If the attack is a ranged attack, the target must be within the first range increment. The attack only affects your selected target, even if it normally affects an area or multiple targets. You still must make a normal attack roll, and if your attack misses, it has no effect."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Armor Storm",
+          "description": "The armor storm fighting style focuses on using armor as a weapon by maximizing the damage of armor-based weapons while withstanding enemy fire. You learn to increase the effectiveness of attacks made with your armor and to add equipment normally beyond your armor’s capacity."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 221,
+          "level": 1,
+          "name": "Hammer Fist (Ex)",
+          "description": "You treat any unarmed attack you make while wearing heavy or powered armor as being made with a battleglove (see page 187) with an item level equal to or lower than your soldier level, and you calculate damage for these attacks as if you had the melee striker gear boost (see page 112). If you have the melee striker gear boost, you gain a +2 bonus to damage rolls with your unarmed attacks when using this ability. These unarmed attacks don’t benefit from other abilities that apply specifically to unarmed attacks (such as the Improved Unarmed Strike feat)."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 221,
+          "level": 5,
+          "name": "Enhanced Tank (Ex)",
+          "description": "You gain the Powered Armored Proficiency feat and access to improved armor. This might be the result of your own engineering abilities, having earned the trust of contacts that can get you experimental equipment, or a powerful patron giving you gear not available to the general public to help you achieve mutual goals. You can add one more upgrade to your armor than its normal maximum number of upgrade slots. If you add this bonus upgrade to heavy armor, you can select an upgrade normally limited to powered armor. An upgrade placed in this bonus slot costs half the normal credit amount."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 221,
+          "level": 9,
+          "name": "Smash Through (Ex)",
+          "description": "While you are wearing heavy armor or powered armor, you gain a +4 bonus to attack rolls to perform a bull rush combat maneuver (see page 246). If you successfully push the target back 10 feet or more, you can also damage the target with an unarmed attack (and can use your hammer fist ability when doing so)."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 221,
+          "level": 13,
+          "name": "Mobile Army (Ex)",
+          "description": "You become a master of all weapons associated with your armor. You deal 1d6 additional damage with any attack from a weapon that is part of your armor, including unarmed attacks using the hammer fist ability and weapons that have been attached to your armor as an armor upgrade. The additional damage is of the same type as the weapon’s normal type. Also, while wearing heavy or powered armor, you gain a +2 bonus to your KAC against combat maneuvers."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 221,
+          "level": 17,
+          "name": "On the Bounce (Ex)",
+          "description": "You learn to control your armor with such ease, you are actually more maneuverable in it than out of it. While wearing heavy armor or powered armor, you can move up to your speed when you make a full attack. You can move before or after all your attacks, but not both. If you have the Shot on the Run feat, you can divide your movement to move both before and after making a full attack as long as all the attacks are ranged attacks. If you have the Spring Attack feat, you can divide your movement to move both before and after making a full attack as long as all the attacks are melee attacks. If you have both feats, your attacks can be any combination of melee and ranged attacks."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Blitz",
+          "description": "The blitz fighting style is all about using speed and aggression to get into the thick of melee. You increase your speed and responsiveness, gain abilities that make you better at melee combat than your enemies, and keep on fighting even when surrounded by foes."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 227,
+          "level": 1,
+          "name": "Rapid Response (Ex)",
+          "description": "You gain a +4 bonus to initiative checks and increase your land speed by 10 feet."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 227,
+          "level": 5,
+          "name": "Charge Attack (Ex)",
+          "description": "As a standard action, you can make a charge without the charge penalties (see page 248), and you can substitute a bull rush for the melee attack at the end of the charge. When you gain the soldier’s onslaught class feature, you can make two attacks instead of one at the end of your charge, both with a –4 penalty."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 227,
+          "level": 9,
+          "name": "Keep Fighting (Ex)",
+          "description": "As a move action, you can spend 1 Resolve Point to regain Stamina Points equal to 2d6 + your soldier level. You can’t use this ability again until after you regain Stamina Points from a 10-minute rest. The number of Stamina Points you regain increases by 1d6 at 10th level, 15th level, and 20th level."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 227,
+          "level": 13,
+          "name": "Perfect Opportunity (Ex)",
+          "description": "When you hit a creature with an attack of opportunity, that creature can’t move out of the squares you threaten until the start of its next turn. In addition, when an enemy takes a guarded step (see page 247) out of a square you threaten, you can make an attack of opportunity against it with a –2 penalty to the attack roll. If the target provoked an attack of opportunity by moving, hitting with your attack of opportunity ends the target’s movement immediately, preventing it from carrying out the rest of its movement."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 227,
+          "level": 17,
+          "name": "Against the Odds (Ex)",
+          "description": "You gain a bonus to melee damage rolls equal to double the number of enemies within 10 feet of you. Enemies who don’t constitute a significant threat (those with a CR equal to your level – 4 or less, or as determined by the GM) don’t count when calculating this bonus."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Bombard",
+          "description": "The bombard fighting style emphasizes attacking multiple targets, often using grenades, and leverages substantial physical strength to control large weapons with significant recoil. At higher levels, you can use launchers, missiles, and other heavy weapons."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 233,
+          "level": 1,
+          "name": "Grenade Expert (Ex)",
+          "description": "You increase the range increment of your thrown grenades by 5 × your Strength bonus. In addition, you’re able to salvage enough materials to create a grenade without paying for it. Creating a grenade takes 10 minutes. You can create any grenade whose item level is less than or equal to your soldier level, but this grenade is unstable and only you can use it effectively. If anyone else tries to use the grenade, it is a dud. You can have only one grenade created by this ability at one time (if you create a new grenade using this ability, the old grenade no longer works)."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 233,
+          "level": 5,
+          "name": "Heavy Fire (Ex)",
+          "description": "You can use your physical power to steady your weapon and make your attacks more dangerous. As a full action, you can make a single ranged attack that deals additional damage equal to your Strength bonus to all targets. You can use this ability in conjunction with the automatic, explode, or unwieldy special property (see pages 180–182)."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 233,
+          "level": 9,
+          "name": "Debilitating Attack (Ex)",
+          "description": "When you hit an enemy with a ranged attack or an attack with a weapon with the blast or explode special property, you can spend 1 Resolve Point to inflict a debilitating effect on that enemy for a number of rounds equal to your Strength bonus. You can choose to make the target deafened, flat- footed, or off-target (see pages 275–277), or to reduce its speeds by half (to a minimum of 10 feet). The target can negate this effect with a successful Fortitude save (DC = 10 + half your soldier level + your Strength modifier)."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 233,
+          "level": 13,
+          "name": "Explosives Acumen (Ex)",
+          "description": "You increase the DC to avoid attacks you make using weapons with the explode special property by 1. You reduce the amount of any damage you take from any weapon with the explode special property by an amount equal to your Strength bonus."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 233,
+          "level": 17,
+          "name": "Impactful Attack (Ex)",
+          "description": "As a full action, you can make a ranged attack that knocks enemies back. Targets you hit are knocked back 5 feet from you. If you use a weapon with the explode special property, all targets that fail their saving throws are instead knocked back 5 feet from the center of the explosion. An enemy that you critically hit or that rolls a natural 1 on its saving throw is also knocked prone. You can’t make an impactful attack with an automatic weapon, but you can use this ability with a weapon that has the blast special property."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Guard",
+          "description": "The guard fighting style focuses on defense. You become adept at wearing armor, protecting against attacks, and enduring damage and other setbacks from attacks that get through your defenses."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 240,
+          "level": 1,
+          "name": "Armor Training (Ex)",
+          "description": "You reduce the armor check penalty of armor you wear by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 240,
+          "level": 5,
+          "name": "Guard’s Protection (Ex)",
+          "description": "When an ally adjacent to you is damaged by an attack, you can use your reaction to intercede. You take half the damage, and your ally takes the other half. This has no effect on spells, and any conditions delivered by the attack apply to both of you. In addition, you are now proficient with powered armor."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 240,
+          "level": 9,
+          "name": "Rapid Recovery (Ex)",
+          "description": "You can spend Resolve Points to ignore detrimental conditions. As a move action, you can spend 1 Resolve Point to suppress one of the following conditions for 10 minutes: exhausted, fatigued, frightened, nauseated, shaken, sickened, or staggered (see pages 276–277). After 10 minutes, if the condition’s duration hasn’t ended, the condition’s effects return. You can suppress only one condition at a time; if you are both fatigued and shaken, you can avoid the effects of only one of them, and if you are affected by two different instances of the same condition, you’re still affected by the second one."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 240,
+          "level": 13,
+          "name": "Kinetic Resistance (Ex)",
+          "description": "You gain DR 3/—. At 17th level, this DR increases to 5/—."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 240,
+          "level": 17,
+          "name": "Impenetrable Defense (Ex)",
+          "description": "As a standard action, you can set up a strong defense for yourself and an adjacent ally. Until the start of your next turn, you gain three benefits: your damage reduction increases to DR 10/—; you and the chosen ally each gain a +4 bonus to AC; and if you use guard’s protection, you direct all the damage to yourself such that your ally takes none."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Hit-and-Run",
+          "description": "The hit-and-run fighting style focuses on tactical movement as you move in and out of combat. You use ranged weapons but fight close up, and you can even mix ranged and melee attacks. Your abilities allow you to move even when you make full attacks and to avoid getting locked down by your enemies."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 245,
+          "level": 1,
+          "name": "Opening Volley (Ex)",
+          "description": "You gain Opening Volley as a bonus feat. If you already have this feat, choose a bonus combat feat instead. At 9th level, you can use Opening Volley on both your first and second turns in combat."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 245,
+          "level": 5,
+          "name": "Nimble Fusillade (Ex)",
+          "description": "When you make a full attack, you can also either take a guarded step or move up to half your speed. This movement can come before, between, or after your attacks, but it can’t be split up."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 245,
+          "level": 9,
+          "name": "Duck and Weave (Ex)",
+          "description": "When you move or make a ranged attack, you can spend 1 Resolve Point to avoid provoking attacks of opportunity from that movement or ranged attack."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 245,
+          "level": 13,
+          "name": "Elusive Target (Ex)",
+          "description": "On any turn in which you move, you gain a +1 insight bonus to your AC until the start of your next turn."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 245,
+          "level": 17,
+          "name": "Harrying Shot (Ex)",
+          "description": "As a full action, you can make one attack and give the benefit of harrying fire (see page 247) against any creature you hit with that attack. If you use a blast weapon or automatic weapon, the benefit applies against all targets hit. You can also take your nimble fusillade movement before or after this attack."
+        },
+        {
+          "feature_id": 56,
+          "parent_id": 0,
+          "level": 1,
+          "name": "Sharpshoot",
+          "description": "The sharpshoot fighting style enables you to excel at making distance. You can ignore cover and other impediments to your shots, and your attacks are improved by your intense focus."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 251,
+          "level": 1,
+          "name": "Sniper’s Aim (Ex)",
+          "description": "When you make a ranged attack against a target with cover, reduce the AC bonus from cover by 2. You can’t use sniper’s aim against an enemy with total cover."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 251,
+          "level": 5,
+          "name": "Focus Fire (Ex)",
+          "description": "When you make a full attack with a ranged weapon, you can make both attacks with a –3 penalty instead of a –4 penalty as long as they both target the same creature. If your first attack kills or knocks out the target, you can instead make the second attack against a different creature at a –4 penalty. Once you have the soldier’s onslaught class feature (see page 112), you can use this ability with it, making three attacks against the same creature at a –5 penalty; if your first or second attack kills or knocks out your target, you can make your remaining attacks against a different creature at a –6 penalty."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 251,
+          "level": 9,
+          "name": "Intense Focus (Ex)",
+          "description": "When you make a ranged attack against a target with cover or concealment, you can spend 1 Resolve Point to negate its AC bonus from cover and reduce its concealment by one category (from total concealment to concealment or from concealment to no concealment). This benefit applies to all ranged attacks you make against that target this round. You can’t use intense focus more than once per round, nor can you use it against an enemy with total cover."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 251,
+          "level": 13,
+          "name": "Focused Damage (Ex)",
+          "description": "When you use focus fire, each attack against the first target deals 2d6 additional damage. Additional creatures you attack after killing or knocking out your first target don’t take this extra damage."
+        },
+        {
+          "feature_id": 57,
+          "parent_id": 251,
+          "level": 17,
+          "name": "Prepared Shot (Ex)",
+          "description": "As a standard action, you can study a target before you attack. The target must be within line of sight of you and either flat-footed or unaware of your presence. On the first attack you make against that target on your next turn, you gain a +2 bonus to your attack roll. If your attack hits, the target is staggered for 1 round; if you score a critical hit, the target is instead stunned for 1 round. Once you make a prepared shot, you can’t use this ability again against the same target for 24 hours. You can’t make an attack on the same round you study the target, even if an ability would let you attack without spending a standard or full action."
+        },
+        {
+          "feature_id": 59,
+          "parent_id": 0,
+          "level": 7,
+          "name": "Anchoring Arcana (Su; 7th level)",
+          "description": "As a full action, you can make a single attack with a magic weapon against a single foe. If the attack is a ranged attack, the target must be within the first range increment. Even if the attack normally affects an area or multiple targets, it affects only your selected target. If your attack hits, you can spend 1 Resolve Point to force the target to attempt a Will saving throw (DC = 10 + half your soldier level + your key ability score modifier). If the target fails its save, it can’t voluntarily move from its current space for 1d4 rounds. This has no effect on involuntary movement, but it does prevent the creature from teleporting or moving to another plane. Once you’ve struck a foe with this attack, whether it succeeds at or fails its saving throw, it is immune to this ability for 24 hours."
+        },
+        {
+          "feature_id": 59,
+          "parent_id": 0,
+          "level": 7,
+          "name": "Armored Advantage (Ex)",
+          "description": "When you are wearing armor, you gain a +1 insight bonus to your Kinetic Armor Class."
+        },
+        {
+          "feature_id": 59,
+          "parent_id": 0,
+          "level": 7,
+          "name": "Brutal Blast (Ex)",
+          "description": "You gain a +2 insight bonus to damage rolls with weapons that have the blast special property (such as a scattergun). This extra damage applies only to creatures within 10 feet of you; creatures farther away take the normal amount of damage. This bonus increases by 1 for every 4 soldier levels you have."
+        },
+        {
+          "feature_id": 59,
+          "parent_id": 0,
+          "level": 7,
+          "name": "Bullet Barrage (Ex)",
+          "description": "You gain a +1 insight bonus to damage rolls for weapons in the projectile category. This bonus increases by 1 for every 4 soldier levels you have."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Countertech (Su)",
+          "description": "As a reaction when you take damage from an attack by a technological weapon or source within medium range that specifically targets you, you can expend an unused spell slot to disrupt the attack. With a spell slot of 1st to 5th level, you can counter an attack from a technological weapon whose item level is equal to or less than the level of the expended spell slot × 3, to a maximum of your caster level. 6th-level spell slots can counter any weapon with a level equal to or less than your caster level. For example, at 2nd level, you could expend a 1st-level spell slot to counter an attack from a 1st- or 2nd-level weapon. To successfully counter the attack, you must roll a countertech check (1d20 + your caster level) with a DC equal to 11 + the weapon’s level. If the countertech check succeeds, the attack deals half damage. If the countertech check fails, the attack deals normal damage. This magic hack only affects attacks that target you directly; you cannot use countertech against attacks that target an area or that target another person."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Empowered Weapon (Su)",
+          "description": "As a move action, you can expend an unused spell slot to reconfigure and enhance a weapon you’re wielding. Until the start of your next turn, your attacks with the enhanced weapon gain a bonus to attack rolls equal to the level of the spell slot you expended. In addition, your attacks with that weapon deal 1d6 additional damage per level of the expended spell slot. This damage is of the same type the weapon normally deals."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Energize Spell (Ex)",
+          "description": "Once per day as a move action, you can use a battery or a weapon’s power cell to power your spellcasting, enabling you to cast one spell you know without using a spell slot. This expends 20 charges per spell level from the battery or power cell and requires you to touch the battery, power cell, or weapon. You must cast the spell before the start of your next turn, or the charges are wasted with no effect."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Fabricate Tech (Sp)",
+          "description": "As a full action, you can expend an unused spell slot to temporarily construct a piece of technological gear from raw magic. You can create any single technological item with a level equal to or less than the level of the expended spell slot × 3, to a maximum of your caster level. The item appears in your hands or in an adjacent square. You can use fuse spells with this magic hack. The size of the item cannot exceed 10 bulk or Medium size, and the quality of the item is average. Treat this as a spell of the same level as the expended spell slot. For example, at 4th level, you could expend a 1st-level spell slot to fabricate an item of up to 3rd level, or you could expend a 2nd-level spell slot to fabricate an item of up to 4th level. The item persists for a number of minutes equal to your technomancer level. At the end of this duration, the item disappears. You can’t create armor, weapons, magic items, or items with limited uses or charges (such as batteries, drugs, or fuel) with this hack."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Harmful Spells (Ex)",
+          "description": "When you cast an instantaneous spell that deals damage, you can increase the spell’s damage by half your technomancer level. This increased damage applies to all creatures damaged by an area spell, but for spells that target multiple creatures with multiple rays or other attacks (such as magic missile), the increased damage applies only to a single ray or missile. This increased damage doesn’t apply to ongoing damage from the spell (such as bleed or burn). This magic hack doesn’t increase ability damage or other spell effects, only damage to Stamina Points or Hit Points."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Quick Scan (Su)",
+          "description": "As a standard action, you can get a general sense of what information is stored on drives or other digital storage media. You must pass your hand in the air near the data source, but don’t have to touch it or connect to it. The information you get is very general, such as “financial records,” “military records,” or “spells.” Getting detailed information requires interfacing with the data more directly. If you attempt a quick scan on a creature that stores its memories in a digital medium—to get a sense of the memories stored in a robot, for example—the target can attempt a Will save to negate the scan and prevent you from trying against it again for 24 hours."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Robot Influence (Ex)",
+          "description": "You can affect constructs, robots, and other creatures that have the technological subtype with your mind-affecting spells, even if they’re mindless or normally immune to such effects. However, they receive a +2 bonus to their Will saves against your mind-affecting spells."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Selective Targeting (Ex)",
+          "description": "When you cast an instantaneous spell with an area effect, you can shape the spell so it doesn’t affect one of your allies. Choose one 5-foot square within the spell’s area to be unaffected by the spell. At 5th level, you can spend 1 Resolve Point to exclude any number of squares with this ability."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Spell Countermeasures (Ex)",
+          "description": "You gain a +2 bonus to saving throws against spells and other magical effects."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 2,
+          "name": "Technomantic Proficiency (Ex)",
+          "description": "As a standard action, you can spend 1 Resolve Point to temporarily learn how to use a weapon in combat. Choose a single weapon; you gain proficiency with it (and any identical weapon) for a number of minutes equal to your class level. Each round you use the weapon reduces this magic hack’s duration by 1 minute. For example, at 4th level, you could gain proficiency with corona laser rifles for 4 minutes. If you fire such a weapon for 2 rounds, you remain proficient with it for 2 more minutes."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Charging Jolt (Su)",
+          "description": "As a move action, you can expend an unused spell slot to refill charges in a weapon’s power cell. This requires you to touch the weapon or its power cell. The power cell regains 10 charges per spell level, up to its capacity. You can also use this ability to jump-start or short out an electronic device, allowing you to attempt an Engineering check to disable a device with a bonus equal to double the level of the spell you expended."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Debug Spell (Ex)",
+          "description": "Any piece of code has bugs, but you can turn the bugs in your spellcode into features. After rolling damage for an instantaneous spell that deals Hit Point damage, you can spend 1 Resolve Point to reroll one die with a result of 1 (see page 243). At 11th level, you can reroll up to two dice with a result of 1, and at 17th level, you can reroll up to three dice with a result of 1. For example, if you were 17th level and cast disintegrate, you could spend 1 Resolve Point to reroll up to three dice that rolled 1s, after rolling and seeing how many 1s you rolled."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Distant Spell (Ex)",
+          "description": "When you cast a spell with a range of close, medium, or long, you can spend 1 Resolve Point to double its range. Spells whose ranges are not defined by distance, as well as spells whose ranges are not close, medium, or long, do not benefit from this magic hack. If the spell affects an area, doubling its range doesn’t alter the size of its area."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Extended Spell (Ex)",
+          "description": "When you cast a spell, you can spend 1 Resolve Point to double its duration. This has no effect on spells with a duration of concentration, instantaneous, 1 round or less, or permanent, nor can it increase a spell’s duration to more than 24 hours."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Fabricate Arms (Su)",
+          "description": "As a full action, you can expend an unused spell slot to temporarily construct a technological weapon or suit of armor out of raw magic. You can create one suit of armor or weapon with a level equal to or less than the level of the expended spell slot × 3, to a maximum of your caster level. The item appears in your hands, on your person, or in an adjacent square. You can use fuse spells with this magic hack. A weapon can’t be larger than two-handed, and the size of the item can’t exceed 10 bulk. The quality of the item is average for its type. Treat this as a spell of the same level as the expended spell slot. For example, at 10th level, you could expend a 3rd-level spell slot to fabricate a weapon of 9th level or lower, or expend a 4th- level spell slot to fabricate a suit of armor of 10th level or lower. The armor or weapon persists for a number of rounds equal to your technomancer level. At the end of this duration, the item disappears. You are proficient with (but not specialized in) any weapons you create with this ability. You can’t create magic items, weapons made from a special material, or weapons that are expended with use (such as arrows, grenades, or missiles) with this magic hack."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Magic Negation (Sp)",
+          "description": "As a standard action, you can spend 1 RP to temporarily suppress magic, as if using dispel magic. Choose either an ongoing spell or a magic item within 30 feet of you. The magical effects of the spell or magic item are suppressed for 1d4 rounds, and then they return. If the spell’s level is higher than you can cast or the item’s caster level is greater than yours, you can’t suppress it. If you target a spell affecting a creature, the creature can attempt a Will save to stop you from suppressing the spell."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 5,
+          "name": "Spell Grenade (Sp)",
+          "description": "You can spend 1 Resolve Point to store a spell with a range of touch in a grenade, allowing you to affect a target within the grenade’s blast radius with the spell. Casting a spell with spell grenade uses the spell’s standard casting time, and throwing the spell grenade is a standard action. You must throw the grenade before the end of your next turn, or the spell is wasted. You are considered proficient with the grenade for this attack. Choose a single target within the grenade’s blast radius; that target is affected by the spell as if you had successfully touched it. The grenade goes off as normal, with all of its usual effects within its blast radius. If you miss the targeted intersection with the grenade, you must choose a target within the grenade’s new blast radius. If there are no suitable targets within the grenade’s blast radius, the spell is wasted. Spells whose ranges are not touch don't benefit from this magic hack."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Diviner’s Tap (Su)",
+          "description": "You can hack a computer to set up magical surveillance. This takes 10 minutes and requires a successful Computers check against the device’s DC. If you fail, you can’t try again on the same device. On a success, your tap lasts for a number of days equal to your caster level. You can program your tap either to give you general information about user activity on the device or to receive a mental alarm when a user accesses or transmits data about a specific topic (getting an idea of the information found). For instance, a user might hold a video call to talk about your exploits. If you chose to receive general information, you might know that a video call took place but not the call’s topic. If you chose to have the tap receive an alarm when the topic is you, you’d get the gist of the conversation (but not a complete transcript). Setting up a new diviner’s tap ends the duration of any previous one still in effect."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Flash Teleport (Sp)",
+          "description": "As a move action, you can spend 1 Resolve Point to teleport up to 30 feet. You must have line of sight to your destination. This movement doesn’t provoke attacks of opportunity."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Mental Mark (Su)",
+          "description": "When an enemy fails a Will save against one of your technomancer spells, it takes a –2 penalty to saving throws and AC for 1 round. When an enemy succeeds at a Will save against one of your technomancer spells, it takes a –1 penalty to saving throws against your spells for 1 round. A creature can take only one penalty from a mental mark at a time."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Spellshot (Sp)",
+          "description": "You can cast an area spell with a casting time of 1 standard action or less through a ranged weapon, allowing you to use the weapon’s range rather than the spell’s range. You must target a single creature with your attack, and the spell’s area is centered on that creature, or originates at the creature’s location for a cone or line effect (oriented in whichever direction you choose), even if the spell would normally be centered on or originate from a point. You can fire the weapon as part of the standard action to cast the spell. You must fire the weapon during the round that the casting is completed, or the spell is wasted. If the attack misses, the spell is wasted. Spells with an emanation effect that would be centered on you don’t benefit from this magic hack."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Tech Countermeasures (Su)",
+          "description": "As a move action, you can spend 1 Resolve Point to make it more difficult for enemies to target you with technological weapons for 1 round. Until the start of your next turn, as a reaction just before an enemy attacks you with a technological weapon, you can force that enemy to roll the attack twice and take the lower result; if the weapon allows a Reflex save instead of requiring an attack roll, you instead gain the benefit of evasion (as the operative’s class feature; see page 93) against the attack. This magic hack has no effect on spells that target you or on weapons or attacks that are not technological in nature."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 8,
+          "name": "Widened Spell (Ex)",
+          "description": "When you cast a spell with a burst, emanation, or spread, you can spend 2 Resolve Points to double its radius. For instance, a spell with a 30-foot burst would have a 60-foot burst instead. Spells that don’t have an area of one of these three types are not affected by this magic hack."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 11,
+          "name": "Countertech Sentinel (Su)",
+          "description": "You can spend 1 Resolve Point to use your countertech magic hack to counter a direct attack against an ally within 15 feet. You can't use countertech sentinel against attacks that target an area. You must have the countertech magic hack to choose this magic hack."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 11,
+          "name": "Eternal Spell (Ex)",
+          "description": "Choose one 1st-level spell you know from the list of technomancer spells in the Starfinder Core Rulebook. You can cast it at will, as though it were a 0-level spell. It still counts as one of your 1st-level spells known, not one of your 0-level spells known. You can choose a 1st-level spell from a source other than the Core Rulebook with the GM’s permission."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 11,
+          "name": "Reboot Mind (Su)",
+          "description": "You can free someone from magical mental control or conditions. As a standard action, you can spend 1 Resolve Point and touch a willing creature. This restarts the subject’s brain, ending all mind-affecting effects affecting it, as well as all conditions that could be removed by greater remove condition that were imparted on the creature by mind- affecting effects, but the subject becomes stunned until the"
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 11,
+          "name": "Seeking Shot (Su)",
+          "description": "As a standard action, you can spend 1 Resolve Point to fire a single shot from a ranged weapon at a target known to you within range. The shot travels to the target, even around corners. Only an unavoidable obstacle or the limit of the weapon’s range prevents the shot from reaching the target. This ability negates cover and concealment modifiers, but otherwise the attack is rolled normally."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Phase Shot (Su)",
+          "description": "As a standard action, you can spend 1 Resolve Point to fire a single shot from a ranged weapon at a target known to you within range. The shot travels straight to the target, passing through any nonmagical barrier in its way, ignoring hardness and Hit Points (any magical barrier, such as a wall of force, stops the shot). This ability negates cover and concealment modifiers, but otherwise the attack is rolled normally."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Quickened Spell (Ex)",
+          "description": "You can cast a spell as a move action. You can spend 2 Resolve Points to cast a quickened 0-level spell or 4 Resolve Points to cast a quickened 1st-level spell. You can quicken only spells with a casting time of 1 full action or shorter. At 16th level, you can spend 6 Resolve Points to cast a quickened 2nd-level spell."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Rain of Fire (Su)",
+          "description": "Once per day as a full action, you can spend 2 Resolve Points to shoot a ranged weapon at multiple targets within range; the maximum number of targets is equal to half your technomancer level or the number of shots in your weapon, whichever is lower. Each attack uses your highest attack bonus, and each enemy can be targeted only by a single shot."
+        },
+        {
+          "feature_id": 66,
+          "parent_id": 0,
+          "level": 14,
+          "name": "Spell Library (Ex)",
+          "description": "You gain one extra spell known for each level of spell you can cast. You must choose the new spells when you gain this magic hack. If you gain access to a higher level of spell after choosing this hack, you gain one extra spell known for that spell level."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Flask
+flask-restplus
+mysql-connector-python
+pathlib
+requests
+Flask-Caching
+slimmyorm==0.0.82

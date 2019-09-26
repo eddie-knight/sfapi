@@ -1,0 +1,41 @@
+{
+    "magic_schools":
+    [
+        {
+          "name": "Abjuration",
+          "description": "Abjurations are protective spells. If an abjuration creates a barrier that keeps certain types of creatures at bay, that barrier cannot be used to push away those creatures. If you force the barrier against such a creature, you feel a discernible pressure against the barrier. If you continue to apply pressure, the spell ends, even if the spell would normally work or its normal duration has not yet elapsed."
+        },
+        {
+          "name": "Conjuration",
+          "description": "Conjuration spells bring creatures, objects, or energy (potentially including healing energy) into being or transport them to new locations. A conjured creature or object must arrive in an open location on a surface capable of supporting it. It can’t appear inside another creature or object. The conjured creature or object must appear within the spell’s range, but once conjured it does not have to remain within the range."
+        },
+        {
+          "name": "Divination",
+          "description": "Divination spells enable you to learn long-forgotten secrets, predict the future, find hidden things, and pierce deceptive spells. In most circumstances, attempts to use divination magic to glean information about events during the Gap fail."
+        },
+        {
+          "name": "Enchantment",
+          "description": "Enchantment spells affect the minds of others, influencing or controlling their behavior. All enchantments are mind-affecting spells and have that descriptor. Most enchantments are either charms or compulsions and have those descriptors. See Descriptors on page 269 for more information."
+        },
+        {
+          "name": "Evocation",
+          "description": "Evocation spells manipulate magical energy or tap an unseen source of power to produce a desired result created entirely with magic. Many of these spells produce spectacular effects, and evocation spells can deal large amounts of damage. Evocation spells often produce effects that manifest as various kinds of energy, or as an energy type of the caster’s choice, as noted in an individual spell’s description."
+        },
+        {
+          "name": "Illusion",
+          "description": "Illusion spells deceive the senses or minds of others. They cause people to see things that aren’t there, not see things that are actually there, hear phantom noises, or remember things that never really happened. By default, illusions create actual sensory stimuli in much the same manner as a hologram might.\nDisbelieving Illusions: Creatures encountering an illusion usually don’t receive saving throws to recognize it as illusory until they study it carefully or interact with it in some fashion, which typically requires spending at least a move action focusing specifically on the illusion.\nA creature that succeeds at its saving throw to disbelieve can tell the illusion is false (but still sees a visual illusion as a translucent outline). A failed saving throw indicates that a character fails to notice something is amiss. A character faced with proof that an illusion isn’t real needs no saving throw to disbelieve it. If any observer successfully disbelieves an illusion and communicates this fact to others, each such observer can attempt a saving throw to disbelieve with a +4 bonus."
+        },
+        {
+          "name": "Necromancy",
+          "description": "Necromancy spells manipulate the power of death, unlife, and life force, including spells involving creating undead creatures."
+        },
+        {
+          "name": "Transmutation",
+          "description": "Transmutation spells change the properties of some creature, thing, or condition."
+        },
+        {
+          "name": "Universal",
+          "description": "In rare cases, a spell harnesses the power of all of the magic schools. In this case, the spell’s school is listed as “universal.”"
+        }
+    ]
+}
