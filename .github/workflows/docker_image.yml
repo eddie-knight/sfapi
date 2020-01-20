@@ -1,0 +1,28 @@
+# Automated image tagging reference: https://blog.container-solutions.com/tagging-docker-images-the-right-way
+
+name: Docker Image CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    
+    - name: Login to Docker Hub
+      run: make login USER=${{ secrets.DOCKER_USER }} PASS=${{ secrets.DOCKER_PASS }}
+  
+    - name: Build Docker images
+      run: |
+        make build NAME=${{ secrets.DOCKER_USER }}/${{ secrets.DOCKER_REPO }} DIR=.
+
+    - name: Push images
+      run: |
+        make push NAME=${{ secrets.DOCKER_USER }}/${{ secrets.DOCKER_REPO }} DIR=.
