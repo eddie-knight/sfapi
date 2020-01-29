@@ -1,7 +1,8 @@
 Flask
+Flask-Caching
 flask-restplus
+loguru
 mysql-connector-python
 pathlib
 requests
-Flask-Caching
 slimmyorm==0.0.82

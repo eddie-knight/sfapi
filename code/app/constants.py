@@ -1,14 +1,17 @@
 # app/constants.py
+import os
 
-from flask import Flask
 from flask_caching import Cache
 import flask_restplus
-from .namespaces import Namespaces
+
+import config
+from app.namespaces import Namespaces
 #
 # Flask / Swagger Elements
 #
 
-APP = Flask(__name__)
+environment = os.getenv("environment", "development")
+APP = config.setup(environment)
 cache = Cache(config={
     "CACHE_TYPE": "simple",
     "CACHE_DEFAULT_TIMEOUT": 86400
